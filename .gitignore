@@ -1,0 +1,15 @@
+.vscode
+.ipynb_checkpoints
+.DS_Store
+
+.~lock*
+
+.conda
+
+llm_train_backup.csv.v1
+llm_test_backup.csv.v1
+
+test_exportado_llm.csv
+train_exportado_llm.csv
+
+json/dictionaries/*

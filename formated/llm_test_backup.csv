@@ -1,0 +1,3837 @@
+speaker_job-llm,speaker_job_cod-llm,state_info-llm,state_info_cod-llm,party_affiliation-llm,party_affiliation_cod-llm
+political_organization,12,georgia,3,democrat,0
+political_organization,12,florida,2,republican,6
+state_executive,16,texas,12,republican,6
+federal_legislator_senate,4,california,1,democrat,0
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,wisconsin,15,republican,6
+other,9,other,10,republican,6
+other,9,other,10,third_Party,7
+governor,5,florida,2,republican,6
+party_leader,10,florida,2,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_house,3,california,1,republican,6
+state_legislator_senate,18,ohio,8,democrat,0
+political_organization,12,rhode island,11,democrat,0
+public_communicator,15,florida,2,official,3
+presidential_candidate,14,new york,7,democrat,0
+other,9,florida,2,media,2
+other,9,new jersey,6,republican,6
+public_communicator,15,georgia,3,official,3
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,other,10,republican,6
+other,9,florida,2,democrat,0
+federal_legislator_house,3,other,10,republican,6
+federal_legislator_house,3,florida,2,republican,6
+other,9,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+other,9,texas,12,republican,6
+political_organization,12,new jersey,6,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,oregon,9,organization,4
+president,13,other,10,democrat,0
+other,9,virginia,13,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,rhode island,11,republican,6
+political_organization,12,florida,2,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+state_legislator_senate,18,wisconsin,15,democrat,0
+federal_legislator_senate,4,ohio,8,republican,6
+other,9,wisconsin,15,third_Party,7
+other,9,florida,2,third_Party,7
+local_executive,8,wisconsin,15,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,other,10,third_Party,7
+public_communicator,15,texas,12,republican,6
+other,9,washington dc,14,democrat,0
+public_communicator,15,wisconsin,15,media,2
+federal_legislative_leader,2,california,1,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+other,9,florida,2,democrat,0
+political_organization,12,ohio,8,republican,6
+other,9,florida,2,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_house,3,virginia,13,republican,6
+other,9,florida,2,republican,6
+governor,5,other,10,republican,6
+political_organization,12,texas,12,organization,4
+federal_legislator_house,3,florida,2,democrat,0
+federal_legislator_senate,4,new jersey,6,democrat,0
+other,9,new york,7,media,2
+federal_legislator_senate,4,ohio,8,republican,6
+political_organization,12,washington dc,14,organization,4
+federal_legislator_house,3,texas,12,republican,6
+other,9,georgia,3,republican,6
+state_legislator_house,17,ohio,8,democrat,0
+business_professional,0,florida,2,democrat,0
+other,9,oregon,9,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+political_advisor,11,virginia,13,republican,6
+political_organization,12,ohio,8,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+president,13,illinois,4,democrat,0
+governor,5,massachusetts,5,republican,6
+other,9,florida,2,republican,6
+public_communicator,15,georgia,3,republican,6
+federal_legislator_senate,4,other,10,republican,6
+other,9,wisconsin,15,republican,6
+other,9,other,10,third_Party,7
+president,13,illinois,4,democrat,0
+state_legislator_senate,18,oregon,9,republican,6
+other,9,other,10,organization,4
+federal_legislator_senate,4,texas,12,republican,6
+political_advisor,11,virginia,13,republican,6
+other,9,wisconsin,15,republican,6
+federal_legislator_senate,4,georgia,3,republican,6
+public_communicator,15,georgia,3,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,oregon,9,third_Party,7
+local_executive,8,rhode island,11,democrat,0
+federal_legislator_house,3,wisconsin,15,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+governor,5,other,10,democrat,0
+public_communicator,15,florida,2,official,3
+president,13,illinois,4,democrat,0
+political_organization,12,wisconsin,15,republican,6
+political_organization,12,washington dc,14,democrat,0
+governor,5,massachusetts,5,republican,6
+public_communicator,15,georgia,3,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+other,9,new york,7,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,other,10,organization,4
+federal_legislative_leader,2,other,10,republican,6
+state_executive,16,texas,12,republican,6
+other,9,other,10,republican,6
+other,9,other,10,organization,4
+other,9,other,10,democrat,0
+political_organization,12,wisconsin,15,organization,4
+political_organization,12,wisconsin,15,organization,4
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,arizona,0,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,other,10,democrat,0
+other,9,florida,2,democrat,0
+federal_legislator_house,3,other,10,republican,6
+political_organization,12,other,10,organization,4
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,organization,4
+public_communicator,15,wisconsin,15,official,3
+other,9,texas,12,official,3
+other,9,wisconsin,15,democrat,0
+governor,5,other,10,democrat,0
+public_communicator,15,other,10,media,2
+governor,5,virginia,13,republican,6
+other,9,other,10,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislator_house,3,texas,12,democrat,0
+federal_legislator_senate,4,illinois,4,republican,6
+other,9,new york,7,official,3
+federal_legislative_candidate,1,other,10,republican,6
+local_executive,8,wisconsin,15,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+other,9,georgia,3,organization,4
+president,13,illinois,4,democrat,0
+political_organization,12,wisconsin,15,republican,6
+other,9,ohio,8,democrat,0
+governor,5,massachusetts,5,republican,6
+other,9,florida,2,democrat,0
+president,13,illinois,4,democrat,0
+business_professional,0,texas,12,democrat,0
+federal_legislative_leader,2,california,1,democrat,0
+political_organization,12,new jersey,6,organization,4
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,other,10,third_Party,7
+political_organization,12,oregon,9,organization,4
+president,13,virginia,13,republican,6
+other,9,florida,2,republican,6
+governor,5,new york,7,democrat,0
+state_legislator_senate,18,florida,2,democrat,0
+other,9,other,10,democrat,0
+federal_legislator_senate,4,ohio,8,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,new jersey,6,republican,6
+other,9,rhode island,11,media,2
+federal_legislative_leader,2,other,10,democrat,0
+other,9,wisconsin,15,democrat,0
+other,9,georgia,3,official,3
+federal_legislative_leader,2,california,1,democrat,0
+state_legislator_senate,18,new jersey,6,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,arizona,0,democrat,0
+state_legislator_senate,18,new jersey,6,democrat,0
+business_professional,0,florida,2,organization,4
+political_advisor,11,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+other,9,rhode island,11,media,2
+other,9,rhode island,11,democrat,0
+public_communicator,15,rhode island,11,organization,4
+other,9,wisconsin,15,official,3
+president,13,new york,7,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,other,10,republican,6
+public_communicator,15,georgia,3,republican,6
+president,13,ohio,8,official,3
+other,9,rhode island,11,republican,6
+political_organization,12,florida,2,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+other,9,new york,7,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,other,10,democrat,0
+other,9,texas,12,democrat,0
+political_organization,12,other,10,republican,6
+president,13,illinois,4,democrat,0
+governor,5,massachusetts,5,republican,6
+political_organization,12,texas,12,organization,4
+state_legislator_house,17,florida,2,republican,6
+political_organization,12,oregon,9,democrat,0
+political_organization,12,georgia,3,organization,4
+federal_legislator_senate,4,texas,12,republican,6
+other,9,florida,2,republican,6
+other,9,florida,2,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+state_executive,16,ohio,8,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,oregon,9,democrat,0
+other,9,other,10,republican,6
+other,9,florida,2,democrat,0
+federal_legislator_house,3,oregon,9,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+federal_legislator_house,3,florida,2,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,media,2
+other,9,ohio,8,official,3
+other,9,other,10,republican,6
+state_executive,16,rhode island,11,democrat,0
+president,13,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,wisconsin,15,republican,6
+state_legislator_senate,18,other,10,democrat,0
+governor,5,texas,12,republican,6
+other,9,other,10,third_Party,7
+federal_legislator_senate,4,arizona,0,republican,6
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,rhode island,11,official,3
+president,13,texas,12,republican,6
+federal_legislative_candidate,1,other,10,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,ohio,8,democrat,0
+state_executive,16,other,10,democrat,0
+other,9,other,10,republican,6
+local_executive,8,wisconsin,15,republican,6
+federal_legislator_house,3,texas,12,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,republican,6
+state_legislator_house,17,ohio,8,democrat,0
+governor,5,other,10,republican,6
+other,9,california,1,democrat,0
+other,9,wisconsin,15,republican,6
+other,9,illinois,4,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+other,9,other,10,official,3
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+other,9,other,10,third_Party,7
+political_organization,12,new jersey,6,organization,4
+governor,5,massachusetts,5,republican,6
+other,9,florida,2,republican,6
+other,9,florida,2,democrat,0
+governor,5,other,10,democrat,0
+other,9,other,10,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+governor,5,wisconsin,15,official,3
+other,9,texas,12,republican,6
+president,13,illinois,4,democrat,0
+public_communicator,15,massachusetts,5,democrat,0
+political_organization,12,rhode island,11,organization,4
+other,9,rhode island,11,media,2
+state_legislator_house,17,wisconsin,15,democrat,0
+other,9,georgia,3,official,3
+state_executive,16,virginia,13,republican,6
+state_legislator_senate,18,new jersey,6,republican,6
+state_legislator_house,17,texas,12,republican,6
+other,9,wisconsin,15,democrat,0
+other,9,florida,2,democrat,0
+political_organization,12,florida,2,democrat,0
+other,9,other,10,third_Party,7
+other,9,other,10,democrat,0
+other,9,wisconsin,15,republican,6
+president,13,illinois,4,democrat,0
+other,9,georgia,3,republican,6
+other,9,florida,2,democrat,0
+governor,5,florida,2,republican,6
+other,9,other,10,republican,6
+political_organization,12,florida,2,democrat,0
+federal_legislator_house,3,other,10,republican,6
+other,9,other,10,third_Party,7
+other,9,florida,2,republican,6
+other,9,other,10,third_Party,7
+federal_legislative_candidate,1,other,10,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+other,9,new jersey,6,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+governor,5,ohio,8,republican,6
+other,9,other,10,democrat,0
+president,13,illinois,4,democrat,0
+state_executive,16,ohio,8,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,wisconsin,15,media,2
+political_organization,12,virginia,13,republican,6
+other,9,florida,2,republican,6
+federal_legislator_senate,4,ohio,8,democrat,0
+president,13,illinois,4,democrat,0
+other,9,new york,7,republican,6
+governor,5,massachusetts,5,democrat,0
+president,13,illinois,4,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+business_professional,0,arizona,0,organization,4
+public_communicator,15,other,10,media,2
+president,13,new york,7,republican,6
+other,9,new jersey,6,democrat,0
+other,9,new jersey,6,republican,6
+political_organization,12,washington dc,14,democrat,0
+political_organization,12,texas,12,democrat,0
+federal_legislator_house,3,wisconsin,15,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,new jersey,6,organization,4
+political_organization,12,other,10,republican,6
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+political_advisor,11,virginia,13,republican,6
+political_organization,12,washington dc,14,republican,6
+political_organization,12,other,10,democrat,0
+other,9,other,10,third_Party,7
+state_legislator_senate,18,virginia,13,democrat,0
+other,9,other,10,democrat,0
+public_communicator,15,rhode island,11,media,2
+governor,5,florida,2,republican,6
+political_organization,12,other,10,official,3
+other,9,wisconsin,15,republican,6
+federal_legislator_house,3,massachusetts,5,democrat,0
+other,9,washington dc,14,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+other,9,georgia,3,third_Party,7
+presidential_candidate,14,new york,7,democrat,0
+president,13,other,10,republican,6
+political_organization,12,georgia,3,republican,6
+other,9,other,10,republican,6
+president,13,other,10,official,3
+other,9,other,10,third_Party,7
+federal_legislator_house,3,ohio,8,republican,6
+other,9,florida,2,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+other,9,georgia,3,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+legal_professional,6,rhode island,11,democrat,0
+political_organization,12,georgia,3,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+other,9,texas,12,democrat,0
+political_organization,12,other,10,organization,4
+governor,5,other,10,republican,6
+state_executive,16,massachusetts,5,democrat,0
+political_organization,12,wisconsin,15,republican,6
+other,9,florida,2,republican,6
+political_organization,12,other,10,republican,6
+other,9,rhode island,11,democrat,0
+state_legislator_house,17,oregon,9,republican,6
+federal_legislator_house,3,illinois,4,republican,6
+other,9,new york,7,official,3
+political_organization,12,texas,12,organization,4
+public_communicator,15,new jersey,6,media,2
+other,9,rhode island,11,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,florida,2,republican,6
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+other,9,texas,12,third_Party,7
+state_executive,16,massachusetts,5,democrat,0
+other,9,new jersey,6,official,3
+governor,5,florida,2,republican,6
+president,13,ohio,8,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,georgia,3,official,3
+other,9,ohio,8,republican,6
+state_executive,16,virginia,13,republican,6
+political_organization,12,florida,2,democrat,0
+president,13,other,10,democrat,0
+political_organization,12,new jersey,6,democrat,0
+other,9,new york,7,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+public_communicator,15,other,10,democrat,0
+other,9,other,10,democrat,0
+president,13,illinois,4,democrat,0
+other,9,oregon,9,media,2
+other,9,other,10,official,3
+federal_legislator_senate,4,other,10,independent_None,1
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,ohio,8,republican,6
+political_organization,12,florida,2,republican,6
+federal_legislator_house,3,other,10,republican,6
+legal_professional,6,rhode island,11,independent_None,1
+political_organization,12,illinois,4,republican,6
+other,9,rhode island,11,third_Party,7
+other,9,florida,2,republican,6
+other,9,georgia,3,republican,6
+other,9,virginia,13,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+other,9,florida,2,republican,6
+other,9,other,10,third_Party,7
+other,9,other,10,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,florida,2,republican,6
+state_legislator_senate,18,texas,12,democrat,0
+governor,5,massachusetts,5,republican,6
+political_organization,12,virginia,13,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+public_communicator,15,texas,12,republican,6
+state_executive,16,other,10,democrat,0
+governor,5,wisconsin,15,independent_None,1
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_senate,4,new york,7,democrat,0
+other,9,rhode island,11,democrat,0
+other,9,california,1,republican,6
+political_organization,12,new york,7,organization,4
+political_organization,12,other,10,republican,6
+other,9,california,1,democrat,0
+state_executive,16,ohio,8,republican,6
+governor,5,new jersey,6,republican,6
+public_communicator,15,new jersey,6,media,2
+political_organization,12,florida,2,republican,6
+state_executive,16,other,10,republican,6
+federal_legislator_house,3,new york,7,republican,6
+president,13,illinois,4,democrat,0
+party_leader,10,wisconsin,15,republican,6
+president,13,other,10,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,other,10,organization,4
+public_communicator,15,other,10,media,2
+other,9,texas,12,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,other,10,republican,6
+other,9,ohio,8,third_Party,7
+governor,5,florida,2,official,3
+other,9,florida,2,democrat,0
+federal_legislator_house,3,georgia,3,democrat,0
+public_communicator,15,other,10,media,2
+other,9,other,10,republican,6
+state_legislator_house,17,new jersey,6,democrat,0
+other,9,new jersey,6,republican,6
+governor,5,florida,2,republican,6
+legal_professional,6,new york,7,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,republican,6
+other,9,wisconsin,15,democrat,0
+other,9,other,10,organization,4
+political_organization,12,florida,2,organization,4
+other,9,new jersey,6,democrat,0
+state_executive,16,virginia,13,republican,6
+local_executive,8,wisconsin,15,democrat,0
+state_legislator_house,17,florida,2,republican,6
+other,9,wisconsin,15,democrat,0
+public_communicator,15,other,10,media,2
+governor,5,texas,12,republican,6
+other,9,ohio,8,republican,6
+political_organization,12,texas,12,organization,4
+political_organization,12,rhode island,11,democrat,0
+political_organization,12,texas,12,republican,6
+other,9,rhode island,11,republican,6
+president,13,illinois,4,democrat,0
+governor,5,texas,12,republican,6
+federal_legislator_house,3,rhode island,11,democrat,0
+other,9,wisconsin,15,republican,6
+public_communicator,15,rhode island,11,media,2
+federal_legislator_house,3,ohio,8,republican,6
+governor,5,arizona,0,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_senate,4,california,1,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+other,9,other,10,democrat,0
+political_organization,12,illinois,4,organization,4
+other,9,georgia,3,democrat,0
+other,9,florida,2,republican,6
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+federal_legislative_candidate,1,new jersey,6,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+state_legislator_house,17,rhode island,11,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+local_executive,8,wisconsin,15,republican,6
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,ohio,8,republican,6
+political_organization,12,florida,2,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+federal_legislator_house,3,other,10,republican,6
+other,9,other,10,democrat,0
+governor,5,florida,2,republican,6
+local_executive,8,wisconsin,15,republican,6
+presidential_candidate,14,georgia,3,third_Party,7
+political_organization,12,florida,2,democrat,0
+state_executive,16,ohio,8,republican,6
+political_organization,12,oregon,9,organization,4
+state_legislator_house,17,oregon,9,democrat,0
+other,9,ohio,8,republican,6
+other,9,rhode island,11,democrat,0
+president,13,new york,7,republican,6
+federal_legislative_leader,2,california,1,democrat,0
+local_executive,8,wisconsin,15,republican,6
+federal_legislator_senate,4,new york,7,democrat,0
+other,9,other,10,republican,6
+other,9,california,1,republican,6
+president,13,new york,7,republican,6
+president,13,new york,7,republican,6
+other,9,other,10,third_Party,7
+other,9,other,10,democrat,0
+governor,5,florida,2,republican,6
+governor,5,virginia,13,republican,6
+public_communicator,15,georgia,3,media,2
+political_organization,12,other,10,organization,4
+president,13,illinois,4,democrat,0
+legal_professional,6,georgia,3,democrat,0
+governor,5,new jersey,6,republican,6
+legal_professional,6,texas,12,democrat,0
+political_organization,12,florida,2,republican,6
+other,9,oregon,9,republican,6
+political_organization,12,other,10,organization,4
+president,13,new york,7,republican,6
+other,9,other,10,republican,6
+other,9,other,10,official,3
+other,9,virginia,13,democrat,0
+political_organization,12,oregon,9,media,2
+other,9,new jersey,6,democrat,0
+political_organization,12,other,10,republican,6
+other,9,other,10,third_Party,7
+other,9,virginia,13,democrat,0
+political_organization,12,ohio,8,republican,6
+other,9,other,10,republican,6
+other,9,virginia,13,democrat,0
+presidential_candidate,14,other,10,third_Party,7
+other,9,florida,2,democrat,0
+political_organization,12,new jersey,6,republican,6
+other,9,washington dc,14,democrat,0
+political_organization,12,other,10,democrat,0
+other,9,florida,2,democrat,0
+other,9,other,10,republican,6
+political_organization,12,other,10,democrat,0
+political_organization,12,other,10,organization,4
+federal_legislator_house,3,new york,7,democrat,0
+other,9,other,10,democrat,0
+other,9,virginia,13,republican,6
+federal_legislator_house,3,virginia,13,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,florida,2,democrat,0
+other,9,wisconsin,15,republican,6
+governor,5,florida,2,republican,6
+public_communicator,15,new york,7,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+governor,5,massachusetts,5,republican,6
+business_professional,0,texas,12,republican,6
+other,9,georgia,3,official,3
+political_organization,12,other,10,republican,6
+state_legislator_house,17,ohio,8,democrat,0
+federal_legislator_house,3,georgia,3,democrat,0
+governor,5,texas,12,republican,6
+other,9,florida,2,republican,6
+president,13,new york,7,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,georgia,3,organization,4
+other,9,georgia,3,democrat,0
+political_organization,12,florida,2,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,wisconsin,15,republican,6
+other,9,oregon,9,democrat,0
+presidential_candidate,14,georgia,3,media,2
+other,9,other,10,republican,6
+federal_legislative_candidate,1,other,10,republican,6
+political_organization,12,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,new jersey,6,republican,6
+state_legislator_house,17,florida,2,republican,6
+governor,5,wisconsin,15,democrat,0
+state_executive,16,georgia,3,democrat,0
+other,9,florida,2,democrat,0
+president,13,new york,7,republican,6
+other,9,texas,12,official,3
+political_organization,12,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,wisconsin,15,republican,6
+political_organization,12,wisconsin,15,democrat,0
+other,9,wisconsin,15,media,2
+other,9,florida,2,republican,6
+president,13,new york,7,republican,6
+governor,5,new jersey,6,democrat,0
+other,9,other,10,republican,6
+other,9,new jersey,6,media,2
+governor,5,florida,2,republican,6
+public_communicator,15,new jersey,6,media,2
+public_communicator,15,georgia,3,organization,4
+public_communicator,15,other,10,media,2
+federal_legislator_house,3,florida,2,democrat,0
+party_leader,10,texas,12,republican,6
+other,9,georgia,3,official,3
+state_executive,16,california,1,democrat,0
+political_organization,12,georgia,3,democrat,0
+other,9,other,10,democrat,0
+political_organization,12,washington dc,14,republican,6
+other,9,rhode island,11,republican,6
+state_legislator_senate,18,new jersey,6,republican,6
+political_organization,12,other,10,republican,6
+other,9,florida,2,republican,6
+other,9,other,10,democrat,0
+governor,5,texas,12,republican,6
+other,9,florida,2,democrat,0
+state_legislator_house,17,georgia,3,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,ohio,8,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,other,10,third_Party,7
+political_organization,12,texas,12,democrat,0
+political_organization,12,florida,2,democrat,0
+legal_professional,6,texas,12,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+federal_legislator_senate,4,rhode island,11,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,texas,12,republican,6
+state_legislator_senate,18,new jersey,6,democrat,0
+governor,5,other,10,republican,6
+other,9,texas,12,democrat,0
+president,13,ohio,8,republican,6
+president,13,new york,7,republican,6
+political_organization,12,florida,2,republican,6
+governor,5,florida,2,republican,6
+other,9,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,georgia,3,third_Party,7
+other,9,ohio,8,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+legal_professional,6,texas,12,republican,6
+political_organization,12,washington dc,14,republican,6
+other,9,other,10,republican,6
+other,9,other,10,organization,4
+governor,5,ohio,8,republican,6
+political_organization,12,other,10,republican,6
+other,9,ohio,8,republican,6
+political_organization,12,virginia,13,organization,4
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_house,3,texas,12,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,ohio,8,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislator_senate,4,rhode island,11,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+political_organization,12,other,10,organization,4
+public_communicator,15,other,10,media,2
+other,9,other,10,democrat,0
+local_executive,8,wisconsin,15,democrat,0
+president,13,other,10,media,2
+other,9,other,10,media,2
+other,9,florida,2,democrat,0
+other,9,florida,2,organization,4
+state_legislator_house,17,new jersey,6,democrat,0
+other,9,florida,2,republican,6
+other,9,georgia,3,republican,6
+other,9,texas,12,democrat,0
+federal_legislator_senate,4,illinois,4,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,texas,12,republican,6
+federal_legislator_house,3,wisconsin,15,democrat,0
+other,9,texas,12,media,2
+federal_legislator_house,3,other,10,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,other,10,republican,6
+political_organization,12,other,10,republican,6
+other,9,florida,2,media,2
+political_organization,12,new jersey,6,organization,4
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,other,10,republican,6
+other,9,other,10,third_Party,7
+other,9,georgia,3,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+president,13,other,10,republican,6
+political_organization,12,ohio,8,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,virginia,13,democrat,0
+other,9,texas,12,democrat,0
+state_legislator_senate,18,rhode island,11,democrat,0
+political_organization,12,other,10,organization,4
+other,9,texas,12,democrat,0
+political_organization,12,arizona,0,republican,6
+governor,5,new jersey,6,republican,6
+other,9,other,10,republican,6
+political_organization,12,washington dc,14,organization,4
+other,9,florida,2,third_Party,7
+public_communicator,15,washington dc,14,media,2
+president,13,other,10,republican,6
+other,9,other,10,media,2
+federal_legislator_senate,4,other,10,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,new jersey,6,organization,4
+political_organization,12,texas,12,republican,6
+other,9,other,10,media,2
+state_legislator_house,17,wisconsin,15,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+other,9,georgia,3,republican,6
+other,9,other,10,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,republican,6
+other,9,wisconsin,15,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,ohio,8,republican,6
+other,9,rhode island,11,democrat,0
+president,13,illinois,4,democrat,0
+state_legislator_house,17,florida,2,democrat,0
+other,9,florida,2,organization,4
+federal_legislator_house,3,other,10,democrat,0
+political_organization,12,washington dc,14,organization,4
+president,13,washington dc,14,republican,6
+political_organization,12,rhode island,11,organization,4
+governor,5,new jersey,6,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+state_legislator_house,17,florida,2,republican,6
+other,9,florida,2,democrat,0
+other,9,georgia,3,media,2
+governor,5,texas,12,republican,6
+legal_professional,6,florida,2,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+governor,5,oregon,9,republican,6
+federal_legislative_leader,2,virginia,13,republican,6
+political_organization,12,other,10,organization,4
+other,9,georgia,3,republican,6
+public_communicator,15,other,10,media,2
+political_organization,12,texas,12,republican,6
+federal_legislator_house,3,virginia,13,republican,6
+other,9,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+other,9,florida,2,republican,6
+federal_legislator_senate,4,california,1,democrat,0
+political_organization,12,texas,12,organization,4
+public_communicator,15,washington dc,14,media,2
+other,9,new jersey,6,third_Party,7
+other,9,rhode island,11,democrat,0
+other,9,texas,12,independent_None,1
+other,9,new jersey,6,official,3
+president,13,new york,7,republican,6
+other,9,washington dc,14,media,2
+federal_legislator_senate,4,texas,12,republican,6
+public_communicator,15,other,10,media,2
+federal_legislator_senate,4,other,10,democrat,0
+governor,5,other,10,republican,6
+other,9,wisconsin,15,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+governor,5,other,10,republican,6
+political_organization,12,other,10,organization,4
+governor,5,ohio,8,republican,6
+political_organization,12,florida,2,democrat,0
+federal_legislative_leader,2,california,1,democrat,0
+other,9,new york,7,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,georgia,3,organization,4
+other,9,georgia,3,democrat,0
+other,9,texas,12,republican,6
+other,9,wisconsin,15,democrat,0
+other,9,other,10,third_Party,7
+governor,5,new jersey,6,republican,6
+party_leader,10,georgia,3,republican,6
+other,9,washington dc,14,republican,6
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+other,9,other,10,official,3
+political_organization,12,virginia,13,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+president,13,other,10,organization,4
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+state_legislator_senate,18,texas,12,democrat,0
+other,9,florida,2,democrat,0
+federal_legislator_house,3,ohio,8,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+public_communicator,15,other,10,republican,6
+other,9,wisconsin,15,republican,6
+other,9,wisconsin,15,third_Party,7
+other,9,florida,2,democrat,0
+other,9,other,10,republican,6
+political_organization,12,florida,2,democrat,0
+other,9,other,10,media,2
+governor,5,virginia,13,republican,6
+presidential_candidate,14,new york,7,democrat,0
+local_executive,8,rhode island,11,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+governor,5,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,other,10,media,2
+president,13,illinois,4,democrat,0
+other,9,florida,2,organization,4
+federal_legislator_house,3,texas,12,democrat,0
+other,9,california,1,democrat,0
+political_organization,12,new jersey,6,organization,4
+political_organization,12,new york,7,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+state_legislator_senate,18,texas,12,republican,6
+other,9,arizona,0,democrat,0
+political_organization,12,florida,2,organization,4
+political_organization,12,wisconsin,15,republican,6
+political_organization,12,wisconsin,15,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+state_executive,16,texas,12,republican,6
+other,9,other,10,democrat,0
+public_communicator,15,new jersey,6,media,2
+governor,5,texas,12,democrat,0
+political_organization,12,california,1,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,new jersey,6,organization,4
+party_leader,10,new jersey,6,media,2
+other,9,virginia,13,republican,6
+president,13,other,10,democrat,0
+governor,5,texas,12,republican,6
+other,9,florida,2,organization,4
+other,9,georgia,3,republican,6
+governor,5,california,1,republican,6
+federal_legislator_house,3,virginia,13,republican,6
+political_organization,12,new jersey,6,organization,4
+federal_legislator_senate,4,texas,12,republican,6
+other,9,wisconsin,15,republican,6
+political_advisor,11,virginia,13,republican,6
+other,9,other,10,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+political_advisor,11,texas,12,republican,6
+political_organization,12,other,10,republican,6
+president,13,ohio,8,official,3
+other,9,wisconsin,15,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+political_organization,12,texas,12,republican,6
+political_organization,12,other,10,organization,4
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,texas,12,organization,4
+president,13,illinois,4,democrat,0
+other,9,texas,12,official,3
+state_legislator_house,17,florida,2,republican,6
+governor,5,ohio,8,republican,6
+political_organization,12,other,10,organization,4
+state_legislator_senate,18,other,10,republican,6
+other,9,washington dc,14,media,2
+public_communicator,15,other,10,media,2
+political_organization,12,arizona,0,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,wisconsin,15,official,3
+other,9,texas,12,republican,6
+governor,5,other,10,republican,6
+other,9,florida,2,official,3
+presidential_candidate,14,new york,7,democrat,0
+other,9,oregon,9,official,3
+federal_legislator_senate,4,florida,2,republican,6
+governor,5,texas,12,republican,6
+other,9,texas,12,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,new jersey,6,democrat,0
+other,9,washington dc,14,democrat,0
+other,9,wisconsin,15,official,3
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,florida,2,organization,4
+presidential_candidate,14,new york,7,democrat,0
+governor,5,massachusetts,5,republican,6
+political_organization,12,new jersey,6,republican,6
+presidential_candidate,14,new york,7,democrat,0
+governor,5,florida,2,republican,6
+political_organization,12,other,10,republican,6
+president,13,new york,7,republican,6
+other,9,virginia,13,democrat,0
+federal_legislator_house,3,rhode island,11,democrat,0
+other,9,rhode island,11,official,3
+political_organization,12,oregon,9,republican,6
+public_communicator,15,ohio,8,official,3
+governor,5,illinois,4,republican,6
+federal_legislator_house,3,illinois,4,republican,6
+state_legislator_senate,18,georgia,3,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_senate,4,california,1,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,virginia,13,democrat,0
+public_communicator,15,other,10,media,2
+political_organization,12,other,10,organization,4
+local_executive,8,wisconsin,15,republican,6
+other,9,rhode island,11,republican,6
+governor,5,florida,2,republican,6
+governor,5,ohio,8,republican,6
+political_organization,12,new jersey,6,republican,6
+political_organization,12,rhode island,11,democrat,0
+party_leader,10,new jersey,6,republican,6
+federal_legislator_senate,4,ohio,8,republican,6
+other,9,new york,7,republican,6
+federal_legislator_senate,4,georgia,3,republican,6
+governor,5,new jersey,6,democrat,0
+political_organization,12,florida,2,democrat,0
+federal_legislator_senate,4,illinois,4,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+governor,5,florida,2,democrat,0
+other,9,florida,2,republican,6
+other,9,other,10,republican,6
+governor,5,new jersey,6,organization,4
+federal_legislator_senate,4,florida,2,republican,6
+president,13,illinois,4,democrat,0
+governor,5,massachusetts,5,republican,6
+governor,5,new jersey,6,republican,6
+president,13,other,10,third_Party,7
+legal_professional,6,new york,7,republican,6
+other,9,other,10,republican,6
+other,9,texas,12,republican,6
+federal_legislator_senate,4,georgia,3,republican,6
+federal_legislator_house,3,new jersey,6,democrat,0
+governor,5,massachusetts,5,republican,6
+state_executive,16,texas,12,republican,6
+local_executive,8,rhode island,11,democrat,0
+other,9,georgia,3,democrat,0
+legal_professional,6,rhode island,11,third_Party,7
+state_legislator_house,17,florida,2,republican,6
+governor,5,massachusetts,5,republican,6
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,texas,12,republican,6
+political_organization,12,new jersey,6,democrat,0
+other,9,florida,2,republican,6
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_house,3,florida,2,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,ohio,8,republican,6
+party_leader,10,wisconsin,15,republican,6
+federal_legislator_house,3,virginia,13,republican,6
+state_legislator_senate,18,oregon,9,republican,6
+state_legislator_house,17,new jersey,6,republican,6
+other,9,texas,12,democrat,0
+federal_legislator_house,3,new jersey,6,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+state_legislator_house,17,florida,2,republican,6
+other,9,virginia,13,official,3
+state_legislator_house,17,texas,12,republican,6
+other,9,oregon,9,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,florida,2,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislative_leader,2,other,10,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,texas,12,republican,6
+political_organization,12,ohio,8,republican,6
+president,13,new york,7,republican,6
+other,9,texas,12,republican,6
+state_legislator_house,17,ohio,8,republican,6
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,new jersey,6,media,2
+other,9,new jersey,6,media,2
+public_communicator,15,georgia,3,republican,6
+political_organization,12,other,10,democrat,0
+governor,5,wisconsin,15,democrat,0
+political_organization,12,other,10,organization,4
+political_organization,12,oregon,9,republican,6
+other,9,new jersey,6,republican,6
+governor,5,massachusetts,5,republican,6
+public_communicator,15,georgia,3,republican,6
+federal_legislator_house,3,texas,12,republican,6
+other,9,other,10,democrat,0
+president,13,new york,7,republican,6
+other,9,new jersey,6,media,2
+other,9,new jersey,6,third_Party,7
+other,9,other,10,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+other,9,other,10,republican,6
+other,9,texas,12,media,2
+other,9,texas,12,democrat,0
+other,9,texas,12,republican,6
+public_communicator,15,wisconsin,15,organization,4
+political_organization,12,other,10,organization,4
+other,9,ohio,8,republican,6
+state_legislator_senate,18,virginia,13,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+federal_legislator_house,3,wisconsin,15,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,florida,2,democrat,0
+political_organization,12,ohio,8,republican,6
+governor,5,ohio,8,republican,6
+governor,5,wisconsin,15,democrat,0
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,new jersey,6,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_house,3,oregon,9,democrat,0
+state_legislator_house,17,ohio,8,democrat,0
+political_organization,12,washington dc,14,organization,4
+other,9,other,10,republican,6
+other,9,other,10,third_Party,7
+public_communicator,15,other,10,republican,6
+public_communicator,15,other,10,media,2
+political_organization,12,other,10,organization,4
+local_executive,8,wisconsin,15,democrat,0
+other,9,other,10,republican,6
+political_organization,12,other,10,organization,4
+federal_legislative_leader,2,other,10,democrat,0
+political_organization,12,wisconsin,15,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,other,10,republican,6
+political_organization,12,georgia,3,democrat,0
+governor,5,florida,2,democrat,0
+other,9,texas,12,official,3
+president,13,new york,7,republican,6
+other,9,other,10,third_Party,7
+federal_legislator_senate,4,other,10,independent_None,1
+federal_legislator_house,3,other,10,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,new jersey,6,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+legal_professional,6,texas,12,democrat,0
+federal_legislator_house,3,georgia,3,democrat,0
+state_legislator_house,17,new jersey,6,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,new jersey,6,democrat,0
+political_organization,12,new jersey,6,democrat,0
+other,9,other,10,third_Party,7
+president,13,washington dc,14,media,2
+federal_legislative_leader,2,other,10,democrat,0
+other,9,other,10,republican,6
+business_professional,0,florida,2,organization,4
+public_communicator,15,texas,12,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+state_legislator_senate,18,georgia,3,democrat,0
+federal_legislator_house,3,texas,12,democrat,0
+political_organization,12,other,10,republican,6
+president,13,new york,7,republican,6
+other,9,other,10,republican,6
+political_organization,12,new jersey,6,republican,6
+political_advisor,11,virginia,13,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,florida,2,official,3
+state_legislator_senate,18,texas,12,democrat,0
+federal_legislator_house,3,wisconsin,15,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+governor,5,massachusetts,5,republican,6
+other,9,illinois,4,democrat,0
+state_executive,16,ohio,8,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+president,13,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,florida,2,republican,6
+political_organization,12,new jersey,6,republican,6
+president,13,new jersey,6,republican,6
+federal_legislative_leader,2,other,10,republican,6
+governor,5,florida,2,republican,6
+political_organization,12,texas,12,democrat,0
+political_organization,12,washington dc,14,organization,4
+public_communicator,15,other,10,media,2
+other,9,georgia,3,democrat,0
+federal_legislator_house,3,ohio,8,democrat,0
+political_organization,12,georgia,3,organization,4
+other,9,california,1,democrat,0
+governor,5,texas,12,republican,6
+federal_legislator_senate,4,other,10,republican,6
+business_professional,0,texas,12,republican,6
+governor,5,washington dc,14,republican,6
+state_executive,16,texas,12,republican,6
+political_organization,12,oregon,9,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+other,9,virginia,13,official,3
+other,9,washington dc,14,official,3
+other,9,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+public_communicator,15,new jersey,6,media,2
+other,9,florida,2,democrat,0
+other,9,florida,2,media,2
+other,9,ohio,8,democrat,0
+president,13,illinois,4,democrat,0
+other,9,other,10,democrat,0
+president,13,illinois,4,democrat,0
+governor,5,ohio,8,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_house,3,rhode island,11,democrat,0
+public_communicator,15,oregon,9,media,2
+federal_legislator_house,3,florida,2,republican,6
+legal_professional,6,new jersey,6,media,2
+federal_legislator_house,3,arizona,0,democrat,0
+governor,5,wisconsin,15,official,3
+political_organization,12,georgia,3,organization,4
+political_organization,12,other,10,democrat,0
+public_communicator,15,georgia,3,media,2
+public_communicator,15,florida,2,third_Party,7
+party_leader,10,new jersey,6,republican,6
+other,9,new jersey,6,republican,6
+other,9,florida,2,media,2
+political_organization,12,washington dc,14,media,2
+federal_legislator_senate,4,massachusetts,5,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,other,10,organization,4
+governor,5,virginia,13,republican,6
+state_executive,16,virginia,13,republican,6
+president,13,other,10,official,3
+public_communicator,15,georgia,3,republican,6
+other,9,virginia,13,organization,4
+state_legislator_house,17,florida,2,republican,6
+political_organization,12,washington dc,14,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+legal_professional,6,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,washington dc,14,republican,6
+political_organization,12,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,new york,7,republican,6
+political_organization,12,florida,2,democrat,0
+other,9,florida,2,republican,6
+public_communicator,15,texas,12,media,2
+state_legislator_senate,18,other,10,republican,6
+political_organization,12,new york,7,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+political_organization,12,new jersey,6,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+governor,5,texas,12,republican,6
+federal_legislator_senate,4,oregon,9,democrat,0
+state_legislator_house,17,florida,2,republican,6
+public_communicator,15,texas,12,democrat,0
+governor,5,new jersey,6,republican,6
+other,9,rhode island,11,democrat,0
+other,9,florida,2,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,oregon,9,democrat,0
+political_organization,12,other,10,media,2
+president,13,illinois,4,democrat,0
+other,9,georgia,3,third_Party,7
+other,9,florida,2,republican,6
+legal_professional,6,other,10,republican,6
+political_organization,12,new jersey,6,organization,4
+other,9,florida,2,third_Party,7
+federal_legislator_house,3,texas,12,democrat,0
+public_communicator,15,other,10,media,2
+other,9,ohio,8,official,3
+other,9,florida,2,organization,4
+other,9,wisconsin,15,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+governor,5,other,10,republican,6
+other,9,virginia,13,organization,4
+federal_legislator_house,3,new jersey,6,republican,6
+federal_legislator_house,3,other,10,republican,6
+governor,5,other,10,republican,6
+other,9,new jersey,6,organization,4
+governor,5,florida,2,republican,6
+governor,5,florida,2,republican,6
+governor,5,massachusetts,5,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,rhode island,11,republican,6
+state_legislator_house,17,wisconsin,15,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislator_house,3,texas,12,democrat,0
+governor,5,texas,12,republican,6
+other,9,other,10,republican,6
+political_advisor,11,virginia,13,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,texas,12,republican,6
+federal_legislator_senate,4,rhode island,11,democrat,0
+federal_legislator_house,3,other,10,republican,6
+political_organization,12,other,10,democrat,0
+president,13,illinois,4,democrat,0
+other,9,florida,2,republican,6
+other,9,california,1,democrat,0
+state_legislator_senate,18,rhode island,11,democrat,0
+public_communicator,15,california,1,official,3
+president,13,new york,7,republican,6
+other,9,texas,12,media,2
+presidential_candidate,14,new york,7,democrat,0
+governor,5,ohio,8,republican,6
+state_legislator_senate,18,new jersey,6,republican,6
+other,9,florida,2,democrat,0
+other,9,massachusetts,5,democrat,0
+legal_professional,6,rhode island,11,republican,6
+other,9,other,10,media,2
+other,9,arizona,0,republican,6
+other,9,new jersey,6,third_Party,7
+federal_legislator_senate,4,texas,12,republican,6
+state_legislator_house,17,rhode island,11,democrat,0
+political_organization,12,texas,12,republican,6
+other,9,other,10,democrat,0
+political_organization,12,other,10,media,2
+governor,5,florida,2,democrat,0
+other,9,new jersey,6,media,2
+state_legislator_house,17,wisconsin,15,democrat,0
+other,9,texas,12,official,3
+federal_legislator_house,3,florida,2,democrat,0
+political_organization,12,washington dc,14,media,2
+political_organization,12,new york,7,democrat,0
+state_executive,16,georgia,3,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+other,9,new jersey,6,media,2
+political_organization,12,ohio,8,republican,6
+governor,5,virginia,13,democrat,0
+other,9,ohio,8,democrat,0
+federal_legislative_leader,2,other,10,democrat,0
+federal_legislator_house,3,ohio,8,democrat,0
+other,9,georgia,3,organization,4
+president,13,illinois,4,democrat,0
+other,9,new jersey,6,democrat,0
+political_organization,12,florida,2,organization,4
+political_organization,12,new jersey,6,organization,4
+other,9,other,10,republican,6
+president,13,new york,7,republican,6
+federal_legislator_house,3,other,10,republican,6
+public_communicator,15,ohio,8,official,3
+governor,5,massachusetts,5,republican,6
+other,9,other,10,republican,6
+federal_legislative_leader,2,virginia,13,republican,6
+political_organization,12,rhode island,11,organization,4
+other,9,other,10,third_Party,7
+state_executive,16,virginia,13,republican,6
+other,9,other,10,republican,6
+state_legislator_house,17,ohio,8,democrat,0
+other,9,virginia,13,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,new jersey,6,democrat,0
+state_legislator_house,17,ohio,8,republican,6
+other,9,rhode island,11,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+legal_professional,6,georgia,3,official,3
+governor,5,massachusetts,5,republican,6
+other,9,florida,2,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+governor,5,texas,12,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,new jersey,6,organization,4
+political_organization,12,georgia,3,organization,4
+political_organization,12,other,10,organization,4
+governor,5,massachusetts,5,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,rhode island,11,republican,6
+other,9,oregon,9,democrat,0
+other,9,other,10,third_Party,7
+governor,5,ohio,8,republican,6
+political_organization,12,georgia,3,organization,4
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,washington dc,14,media,2
+political_organization,12,other,10,independent_None,1
+political_organization,12,wisconsin,15,democrat,0
+political_organization,12,ohio,8,democrat,0
+state_legislator_senate,18,other,10,republican,6
+governor,5,new jersey,6,republican,6
+president,13,other,10,democrat,0
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,other,10,republican,6
+political_organization,12,florida,2,democrat,0
+political_organization,12,virginia,13,organization,4
+state_legislator_senate,18,florida,2,republican,6
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,other,10,organization,4
+other,9,florida,2,democrat,0
+political_organization,12,other,10,republican,6
+governor,5,rhode island,11,democrat,0
+governor,5,wisconsin,15,republican,6
+political_organization,12,new jersey,6,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,rhode island,11,democrat,0
+public_communicator,15,texas,12,democrat,0
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,new jersey,6,republican,6
+political_organization,12,wisconsin,15,republican,6
+political_organization,12,florida,2,republican,6
+governor,5,new jersey,6,republican,6
+governor,5,new jersey,6,republican,6
+other,9,other,10,republican,6
+other,9,texas,12,democrat,0
+public_communicator,15,other,10,media,2
+political_organization,12,florida,2,republican,6
+governor,5,other,10,official,3
+other,9,new jersey,6,official,3
+state_legislator_senate,18,texas,12,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,new jersey,6,organization,4
+other,9,other,10,democrat,0
+federal_legislative_leader,2,virginia,13,republican,6
+other,9,texas,12,democrat,0
+other,9,washington dc,14,republican,6
+state_legislator_house,17,wisconsin,15,democrat,0
+other,9,rhode island,11,democrat,0
+president,13,ohio,8,republican,6
+president,13,new york,7,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+other,9,oregon,9,official,3
+governor,5,texas,12,republican,6
+legal_professional,6,rhode island,11,republican,6
+other,9,georgia,3,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,oregon,9,organization,4
+party_leader,10,wisconsin,15,republican,6
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_senate,4,other,10,republican,6
+governor,5,florida,2,republican,6
+political_organization,12,other,10,organization,4
+other,9,florida,2,democrat,0
+governor,5,virginia,13,democrat,0
+other,9,other,10,organization,4
+other,9,georgia,3,republican,6
+other,9,oregon,9,official,3
+other,9,texas,12,democrat,0
+political_organization,12,other,10,organization,4
+other,9,florida,2,democrat,0
+political_organization,12,other,10,official,3
+governor,5,florida,2,republican,6
+other,9,other,10,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,florida,2,republican,6
+other,9,wisconsin,15,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+other,9,other,10,democrat,0
+president,13,georgia,3,republican,6
+other,9,other,10,republican,6
+other,9,oregon,9,organization,4
+other,9,florida,2,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,other,10,democrat,0
+other,9,new york,7,media,2
+political_organization,12,other,10,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+president,13,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,rhode island,11,republican,6
+governor,5,virginia,13,democrat,0
+public_communicator,15,wisconsin,15,official,3
+public_communicator,15,wisconsin,15,media,2
+governor,5,other,10,republican,6
+other,9,florida,2,republican,6
+federal_legislative_candidate,1,georgia,3,third_Party,7
+other,9,arizona,0,republican,6
+business_professional,0,texas,12,republican,6
+federal_legislator_house,3,california,1,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+federal_legislative_candidate,1,wisconsin,15,republican,6
+local_executive,8,wisconsin,15,republican,6
+president,13,illinois,4,democrat,0
+other,9,illinois,4,democrat,0
+president,13,new york,7,republican,6
+other,9,other,10,republican,6
+public_communicator,15,georgia,3,democrat,0
+political_organization,12,other,10,democrat,0
+political_organization,12,texas,12,republican,6
+public_communicator,15,other,10,media,2
+state_legislator_senate,18,wisconsin,15,democrat,0
+president,13,illinois,4,democrat,0
+presidential_candidate,14,other,10,third_Party,7
+other,9,other,10,republican,6
+other,9,wisconsin,15,republican,6
+other,9,texas,12,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+governor,5,new jersey,6,republican,6
+political_organization,12,other,10,organization,4
+federal_legislative_leader,2,other,10,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+public_communicator,15,oregon,9,official,3
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_house,3,rhode island,11,democrat,0
+political_organization,12,wisconsin,15,republican,6
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_house,3,other,10,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,virginia,13,republican,6
+governor,5,texas,12,republican,6
+other,9,other,10,democrat,0
+state_legislator_house,17,other,10,republican,6
+federal_legislator_house,3,other,10,republican,6
+governor,5,texas,12,republican,6
+public_communicator,15,new york,7,media,2
+governor,5,massachusetts,5,republican,6
+presidential_candidate,14,other,10,third_Party,7
+federal_legislator_senate,4,other,10,independent_None,1
+president,13,new york,7,media,2
+federal_legislator_senate,4,texas,12,republican,6
+other,9,wisconsin,15,democrat,0
+local_executive,8,wisconsin,15,republican,6
+federal_legislator_house,3,other,10,republican,6
+governor,5,virginia,13,republican,6
+other,9,other,10,democrat,0
+political_organization,12,other,10,democrat,0
+political_organization,12,new jersey,6,republican,6
+public_communicator,15,other,10,third_Party,7
+state_legislator_senate,18,new jersey,6,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+governor,5,other,10,republican,6
+state_legislator_house,17,florida,2,republican,6
+president,13,new york,7,republican,6
+state_legislator_senate,18,new jersey,6,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,florida,2,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,florida,2,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,ohio,8,organization,4
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,florida,2,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+public_communicator,15,new jersey,6,media,2
+governor,5,florida,2,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,other,10,republican,6
+federal_legislator_house,3,other,10,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+governor,5,other,10,republican,6
+political_organization,12,florida,2,democrat,0
+federal_legislator_house,3,ohio,8,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,wisconsin,15,republican,6
+president,13,new york,7,republican,6
+local_executive,8,wisconsin,15,democrat,0
+other,9,wisconsin,15,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,california,1,media,2
+state_legislator_senate,18,ohio,8,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+political_organization,12,new jersey,6,organization,4
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,new york,7,official,3
+federal_legislator_house,3,texas,12,republican,6
+other,9,florida,2,media,2
+local_executive,8,wisconsin,15,republican,6
+governor,5,massachusetts,5,republican,6
+public_communicator,15,virginia,13,other,5
+president,13,illinois,4,democrat,0
+president,13,new york,7,democrat,0
+other,9,wisconsin,15,democrat,0
+federal_legislative_leader,2,other,10,republican,6
+public_communicator,15,new jersey,6,official,3
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,other,10,republican,6
+other,9,rhode island,11,democrat,0
+political_organization,12,texas,12,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+state_legislator_senate,18,other,10,democrat,0
+other,9,other,10,republican,6
+other,9,ohio,8,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+political_organization,12,georgia,3,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,arizona,0,republican,6
+political_organization,12,florida,2,democrat,0
+political_organization,12,rhode island,11,democrat,0
+other,9,ohio,8,republican,6
+presidential_candidate,14,new york,7,democrat,0
+legal_professional,6,rhode island,11,official,3
+federal_legislator_house,3,wisconsin,15,republican,6
+other,9,new jersey,6,democrat,0
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,democrat,0
+public_communicator,15,georgia,3,republican,6
+other,9,oregon,9,democrat,0
+other,9,wisconsin,15,democrat,0
+other,9,virginia,13,democrat,0
+political_organization,12,other,10,democrat,0
+governor,5,ohio,8,republican,6
+political_organization,12,wisconsin,15,organization,4
+political_organization,12,new jersey,6,democrat,0
+federal_legislator_senate,4,georgia,3,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,california,1,democrat,0
+legal_professional,6,florida,2,democrat,0
+political_organization,12,new jersey,6,organization,4
+other,9,wisconsin,15,republican,6
+other,9,other,10,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,wisconsin,15,republican,6
+political_organization,12,new jersey,6,organization,4
+other,9,florida,2,republican,6
+state_legislator_senate,18,oregon,9,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,georgia,3,official,3
+other,9,other,10,republican,6
+president,13,ohio,8,republican,6
+other,9,rhode island,11,democrat,0
+business_professional,0,texas,12,republican,6
+other,9,ohio,8,third_Party,7
+other,9,new york,7,democrat,0
+other,9,florida,2,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+president,13,illinois,4,democrat,0
+other,9,wisconsin,15,democrat,0
+federal_legislator_house,3,other,10,democrat,0
+political_organization,12,florida,2,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+state_executive,16,texas,12,republican,6
+political_organization,12,other,10,democrat,0
+local_executive,8,wisconsin,15,republican,6
+governor,5,ohio,8,republican,6
+other,9,other,10,republican,6
+political_organization,12,texas,12,republican,6
+political_organization,12,new jersey,6,organization,4
+other,9,rhode island,11,democrat,0
+other,9,new york,7,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,virginia,13,organization,4
+federal_legislator_house,3,other,10,republican,6
+other,9,rhode island,11,media,2
+other,9,florida,2,republican,6
+public_communicator,15,florida,2,independent_None,1
+presidential_candidate,14,new york,7,democrat,0
+state_executive,16,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+governor,5,ohio,8,republican,6
+other,9,rhode island,11,democrat,0
+other,9,new jersey,6,organization,4
+governor,5,other,10,democrat,0
+other,9,wisconsin,15,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,ohio,8,organization,4
+governor,5,georgia,3,republican,6
+other,9,other,10,media,2
+governor,5,ohio,8,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+other,9,other,10,republican,6
+governor,5,texas,12,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_house,3,ohio,8,democrat,0
+other,9,other,10,independent_None,1
+other,9,other,10,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,virginia,13,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+other,9,new york,7,democrat,0
+other,9,virginia,13,republican,6
+political_organization,12,texas,12,organization,4
+state_legislator_senate,18,new jersey,6,democrat,0
+public_communicator,15,other,10,media,2
+other,9,other,10,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,georgia,3,democrat,0
+other,9,other,10,republican,6
+state_legislator_house,17,texas,12,republican,6
+other,9,other,10,third_Party,7
+federal_legislator_senate,4,texas,12,republican,6
+other,9,ohio,8,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+federal_legislator_house,3,california,1,democrat,0
+political_organization,12,georgia,3,organization,4
+president,13,other,10,democrat,0
+political_organization,12,new jersey,6,organization,4
+other,9,other,10,organization,4
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislative_candidate,1,other,10,republican,6
+other,9,florida,2,republican,6
+other,9,florida,2,democrat,0
+federal_legislator_house,3,other,10,republican,6
+other,9,ohio,8,third_Party,7
+state_legislator_house,17,texas,12,republican,6
+political_organization,12,florida,2,organization,4
+state_executive,16,texas,12,republican,6
+political_organization,12,other,10,democrat,0
+other,9,wisconsin,15,independent_None,1
+federal_legislator_senate,4,other,10,republican,6
+governor,5,florida,2,republican,6
+other,9,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+state_legislator_house,17,ohio,8,democrat,0
+governor,5,massachusetts,5,republican,6
+other,9,other,10,democrat,0
+federal_legislator_house,3,oregon,9,republican,6
+political_organization,12,other,10,media,2
+president,13,new york,7,republican,6
+other,9,texas,12,democrat,0
+other,9,other,10,democrat,0
+public_communicator,15,new york,7,media,2
+governor,5,other,10,democrat,0
+local_executive,8,wisconsin,15,republican,6
+other,9,washington dc,14,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+public_communicator,15,new york,7,media,2
+public_communicator,15,other,10,media,2
+governor,5,wisconsin,15,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_senate,4,california,1,other,5
+political_organization,12,georgia,3,organization,4
+other,9,new york,7,media,2
+federal_legislator_house,3,florida,2,democrat,0
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+state_executive,16,rhode island,11,democrat,0
+legal_professional,6,new york,7,republican,6
+president,13,illinois,4,democrat,0
+state_legislator_senate,18,florida,2,republican,6
+other,9,florida,2,democrat,0
+political_organization,12,california,1,democrat,0
+president,13,ohio,8,republican,6
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,california,1,organization,4
+public_communicator,15,georgia,3,official,3
+other,9,washington dc,14,democrat,0
+other,9,texas,12,republican,6
+political_organization,12,florida,2,republican,6
+political_organization,12,other,10,democrat,0
+political_organization,12,florida,2,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+legal_professional,6,texas,12,republican,6
+federal_legislator_house,3,other,10,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,organization,4
+other,9,wisconsin,15,republican,6
+other,9,florida,2,democrat,0
+other,9,other,10,third_Party,7
+political_organization,12,other,10,organization,4
+governor,5,texas,12,republican,6
+other,9,california,1,republican,6
+other,9,wisconsin,15,republican,6
+other,9,other,10,third_Party,7
+federal_legislator_senate,4,rhode island,11,democrat,0
+political_organization,12,new jersey,6,democrat,0
+other,9,wisconsin,15,republican,6
+political_organization,12,new jersey,6,republican,6
+other,9,other,10,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+president,13,new york,7,republican,6
+governor,5,texas,12,republican,6
+other,9,other,10,republican,6
+other,9,florida,2,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+political_organization,12,wisconsin,15,republican,6
+president,13,washington dc,14,media,2
+federal_legislator_house,3,florida,2,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,georgia,3,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+other,9,virginia,13,republican,6
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,other,10,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_house,3,ohio,8,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+other,9,other,10,republican,6
+president,13,illinois,4,democrat,0
+state_legislator_senate,18,oregon,9,democrat,0
+other,9,rhode island,11,organization,4
+federal_legislator_house,3,florida,2,democrat,0
+public_communicator,15,georgia,3,republican,6
+other,9,georgia,3,republican,6
+local_executive,8,wisconsin,15,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,new jersey,6,democrat,0
+public_communicator,15,other,10,republican,6
+state_legislator_house,17,florida,2,democrat,0
+political_organization,12,ohio,8,organization,4
+other,9,arizona,0,official,3
+public_communicator,15,georgia,3,media,2
+federal_legislator_house,3,florida,2,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,other,10,democrat,0
+other,9,other,10,other,5
+president,13,illinois,4,democrat,0
+other,9,other,10,third_Party,7
+political_organization,12,oregon,9,media,2
+federal_legislator_senate,4,texas,12,republican,6
+business_professional,0,ohio,8,republican,6
+political_organization,12,georgia,3,organization,4
+governor,5,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,wisconsin,15,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+other,9,georgia,3,republican,6
+president,13,other,10,official,3
+state_legislator_house,17,oregon,9,republican,6
+state_legislator_house,17,new jersey,6,democrat,0
+party_leader,10,florida,2,republican,6
+president,13,ohio,8,republican,6
+other,9,other,10,democrat,0
+other,9,virginia,13,democrat,0
+other,9,florida,2,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+other,9,other,10,media,2
+other,9,other,10,republican,6
+political_organization,12,other,10,organization,4
+state_legislator_senate,18,new jersey,6,democrat,0
+other,9,arizona,0,third_Party,7
+governor,5,texas,12,republican,6
+president,13,illinois,4,democrat,0
+governor,5,texas,12,republican,6
+public_communicator,15,georgia,3,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,oregon,9,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,illinois,4,democrat,0
+political_organization,12,texas,12,official,3
+federal_legislator_senate,4,georgia,3,republican,6
+political_organization,12,florida,2,republican,6
+political_organization,12,georgia,3,organization,4
+federal_legislative_leader,2,california,1,democrat,0
+other,9,other,10,republican,6
+governor,5,other,10,republican,6
+state_legislator_senate,18,florida,2,republican,6
+federal_legislator_house,3,other,10,republican,6
+public_communicator,15,other,10,media,2
+other,9,other,10,third_Party,7
+political_organization,12,washington dc,14,organization,4
+local_executive,8,wisconsin,15,republican,6
+other,9,oregon,9,media,2
+state_legislator_house,17,wisconsin,15,republican,6
+other,9,georgia,3,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,washington dc,14,media,2
+political_organization,12,rhode island,11,organization,4
+other,9,arizona,0,republican,6
+political_organization,12,other,10,democrat,0
+president,13,new york,7,republican,6
+state_executive,16,texas,12,republican,6
+political_organization,12,new jersey,6,official,3
+other,9,wisconsin,15,media,2
+business_professional,0,other,10,republican,6
+president,13,illinois,4,democrat,0
+other,9,wisconsin,15,democrat,0
+other,9,other,10,republican,6
+public_communicator,15,other,10,republican,6
+other,9,oregon,9,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+public_communicator,15,other,10,media,2
+other,9,florida,2,democrat,0
+other,9,other,10,organization,4
+political_organization,12,oregon,9,democrat,0
+political_organization,12,texas,12,republican,6
+political_organization,12,florida,2,democrat,0
+political_organization,12,other,10,republican,6
+other,9,virginia,13,official,3
+political_organization,12,new jersey,6,organization,4
+political_organization,12,other,10,republican,6
+president,13,other,10,republican,6
+president,13,new york,7,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,republican,6
+other,9,illinois,4,democrat,0
+political_organization,12,other,10,democrat,0
+other,9,texas,12,republican,6
+other,9,other,10,democrat,0
+other,9,wisconsin,15,republican,6
+public_communicator,15,other,10,media,2
+political_organization,12,georgia,3,organization,4
+political_organization,12,texas,12,democrat,0
+legal_professional,6,texas,12,democrat,0
+other,9,florida,2,republican,6
+political_organization,12,washington dc,14,democrat,0
+other,9,other,10,third_Party,7
+federal_legislator_house,3,other,10,republican,6
+other,9,georgia,3,republican,6
+state_legislator_senate,18,florida,2,republican,6
+political_organization,12,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+other,9,rhode island,11,republican,6
+political_organization,12,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,republican,6
+political_organization,12,other,10,organization,4
+presidential_candidate,14,new york,7,democrat,0
+governor,5,texas,12,republican,6
+governor,5,virginia,13,republican,6
+governor,5,other,10,democrat,0
+federal_legislator_house,3,other,10,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+other,9,illinois,4,democrat,0
+federal_legislator_house,3,ohio,8,republican,6
+president,13,new york,7,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+president,13,new york,7,republican,6
+other,9,washington dc,14,official,3
+political_organization,12,oregon,9,republican,6
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,other,10,republican,6
+other,9,florida,2,democrat,0
+other,9,new jersey,6,media,2
+other,9,texas,12,democrat,0
+other,9,florida,2,democrat,0
+other,9,new jersey,6,democrat,0
+public_communicator,15,texas,12,official,3
+governor,5,texas,12,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+other,9,washington dc,14,organization,4
+legal_professional,6,new york,7,republican,6
+federal_legislator_house,3,texas,12,republican,6
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,other,10,democrat,0
+governor,5,florida,2,republican,6
+federal_legislator_house,3,illinois,4,democrat,0
+federal_legislator_senate,4,new york,7,democrat,0
+president,13,new jersey,6,republican,6
+political_organization,12,new jersey,6,organization,4
+other,9,wisconsin,15,official,3
+governor,5,florida,2,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,california,1,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+president,13,new york,7,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,other,10,republican,6
+political_organization,12,washington dc,14,republican,6
+public_communicator,15,other,10,media,2
+federal_legislator_senate,4,other,10,republican,6
+other,9,virginia,13,democrat,0
+other,9,other,10,democrat,0
+other,9,other,10,republican,6
+political_organization,12,new jersey,6,organization,4
+political_organization,12,new jersey,6,media,2
+political_organization,12,illinois,4,organization,4
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,oregon,9,other,5
+political_organization,12,other,10,official,3
+president,13,new york,7,republican,6
+public_communicator,15,other,10,media,2
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,other,10,media,2
+other,9,illinois,4,democrat,0
+federal_legislative_candidate,1,florida,2,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,texas,12,republican,6
+other,9,other,10,media,2
+local_executive,8,wisconsin,15,republican,6
+public_communicator,15,georgia,3,republican,6
+political_organization,12,wisconsin,15,organization,4
+federal_legislator_senate,4,other,10,democrat,0
+governor,5,virginia,13,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,washington dc,14,other,5
+governor,5,texas,12,republican,6
+presidential_candidate,14,new york,7,democrat,0
+president,13,new york,7,republican,6
+other,9,texas,12,democrat,0
+other,9,wisconsin,15,democrat,0
+other,9,wisconsin,15,republican,6
+state_legislator_house,17,rhode island,11,democrat,0
+other,9,other,10,democrat,0
+other,9,texas,12,republican,6
+public_communicator,15,other,10,media,2
+other,9,other,10,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,ohio,8,democrat,0
+other,9,wisconsin,15,republican,6
+other,9,wisconsin,15,republican,6
+other,9,other,10,third_Party,7
+party_leader,10,wisconsin,15,republican,6
+legal_professional,6,virginia,13,democrat,0
+federal_legislator_house,3,other,10,republican,6
+other,9,virginia,13,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,democrat,0
+other,9,new jersey,6,republican,6
+other,9,new jersey,6,official,3
+state_legislator_house,17,ohio,8,democrat,0
+governor,5,florida,2,republican,6
+governor,5,florida,2,republican,6
+state_executive,16,texas,12,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+president,13,new york,7,republican,6
+other,9,other,10,media,2
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,rhode island,11,organization,4
+legal_professional,6,new york,7,republican,6
+local_executive,8,rhode island,11,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,wisconsin,15,organization,4
+state_legislator_house,17,florida,2,republican,6
+political_organization,12,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+governor,5,texas,12,republican,6
+political_organization,12,other,10,organization,4
+business_professional,0,other,10,republican,6
+state_legislator_house,17,new jersey,6,republican,6
+business_professional,0,illinois,4,organization,4
+legal_professional,6,new york,7,republican,6
+other,9,other,10,democrat,0
+political_organization,12,texas,12,democrat,0
+governor,5,florida,2,republican,6
+other,9,ohio,8,third_Party,7
+state_legislator_house,17,georgia,3,republican,6
+president,13,new york,7,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+other,9,texas,12,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,texas,12,democrat,0
+other,9,ohio,8,organization,4
+other,9,oregon,9,official,3
+political_organization,12,arizona,0,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,new york,7,independent_None,1
+other,9,ohio,8,official,3
+governor,5,virginia,13,democrat,0
+political_organization,12,other,10,organization,4
+business_professional,0,virginia,13,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,texas,12,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+state_legislator_house,17,texas,12,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+state_executive,16,texas,12,republican,6
+other,9,new jersey,6,organization,4
+other,9,new york,7,republican,6
+public_communicator,15,georgia,3,republican,6
+other,9,other,10,third_Party,7
+other,9,ohio,8,democrat,0
+other,9,texas,12,third_Party,7
+governor,5,ohio,8,republican,6
+other,9,arizona,0,republican,6
+political_organization,12,georgia,3,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,republican,6
+public_communicator,15,other,10,media,2
+federal_legislator_senate,4,georgia,3,republican,6
+political_organization,12,rhode island,11,organization,4
+political_organization,12,ohio,8,republican,6
+other,9,florida,2,democrat,0
+other,9,florida,2,democrat,0
+other,9,ohio,8,democrat,0
+political_organization,12,new jersey,6,official,3
+other,9,other,10,democrat,0
+other,9,florida,2,republican,6
+president,13,illinois,4,democrat,0
+state_executive,16,other,10,democrat,0
+other,9,wisconsin,15,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+other,9,new jersey,6,media,2
+governor,5,texas,12,republican,6
+other,9,virginia,13,democrat,0
+political_organization,12,texas,12,democrat,0
+governor,5,texas,12,republican,6
+state_legislator_house,17,other,10,republican,6
+legal_professional,6,other,10,media,2
+federal_legislator_house,3,florida,2,democrat,0
+president,13,new york,7,republican,6
+other,9,wisconsin,15,republican,6
+political_organization,12,other,10,republican,6
+president,13,illinois,4,democrat,0
+other,9,wisconsin,15,republican,6
+other,9,other,10,republican,6
+political_organization,12,georgia,3,republican,6
+governor,5,florida,2,republican,6
+federal_legislator_senate,4,ohio,8,democrat,0
+political_organization,12,other,10,republican,6
+business_professional,0,texas,12,democrat,0
+public_communicator,15,georgia,3,republican,6
+state_executive,16,texas,12,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,other,10,republican,6
+president,13,new york,7,republican,6
+political_organization,12,texas,12,republican,6
+political_organization,12,new jersey,6,democrat,0
+other,9,texas,12,official,3
+political_organization,12,florida,2,organization,4
+other,9,georgia,3,republican,6
+state_executive,16,texas,12,republican,6
+governor,5,texas,12,republican,6
+other,9,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,texas,12,democrat,0
+other,9,new jersey,6,republican,6
+president,13,other,10,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+political_organization,12,other,10,republican,6
+political_organization,12,new jersey,6,republican,6
+local_executive,8,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,wisconsin,15,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+governor,5,virginia,13,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+other,9,rhode island,11,media,2
+federal_legislator_house,3,florida,2,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,california,1,organization,4
+federal_legislator_senate,4,texas,12,republican,6
+other,9,other,10,republican,6
+president,13,illinois,4,democrat,0
+other,9,florida,2,democrat,0
+governor,5,wisconsin,15,democrat,0
+other,9,new jersey,6,official,3
+governor,5,wisconsin,15,democrat,0
+political_organization,12,other,10,organization,4
+political_organization,12,new jersey,6,democrat,0
+other,9,ohio,8,democrat,0
+local_executive,8,wisconsin,15,republican,6
+business_professional,0,rhode island,11,republican,6
+other,9,wisconsin,15,democrat,0
+other,9,rhode island,11,official,3
+governor,5,virginia,13,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,republican,6
+federal_legislator_house,3,ohio,8,republican,6
+other,9,wisconsin,15,republican,6
+public_communicator,15,other,10,media,2
+other,9,other,10,democrat,0
+other,9,other,10,democrat,0
+local_education_official,7,wisconsin,15,democrat,0
+other,9,wisconsin,15,republican,6
+other,9,other,10,republican,6
+governor,5,virginia,13,republican,6
+federal_legislator_house,3,texas,12,republican,6
+governor,5,other,10,republican,6
+state_executive,16,texas,12,republican,6
+federal_legislator_senate,4,ohio,8,republican,6
+other,9,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,oregon,9,organization,4
+other,9,wisconsin,15,republican,6
+other,9,other,10,republican,6
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,new jersey,6,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,florida,2,third_Party,7
+other,9,new jersey,6,democrat,0
+state_legislator_house,17,ohio,8,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+political_organization,12,new jersey,6,democrat,0
+state_legislator_house,17,texas,12,republican,6
+other,9,new jersey,6,republican,6
+other,9,california,1,republican,6
+state_legislator_senate,18,ohio,8,republican,6
+political_organization,12,rhode island,11,republican,6
+other,9,new jersey,6,media,2
+federal_legislator_senate,4,florida,2,republican,6
+governor,5,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,democrat,0
+public_communicator,15,georgia,3,republican,6
+other,9,other,10,organization,4
+local_executive,8,wisconsin,15,republican,6
+president,13,other,10,democrat,0
+other,9,new jersey,6,republican,6
+federal_legislator_house,3,illinois,4,republican,6
+other,9,texas,12,republican,6
+other,9,wisconsin,15,republican,6
+president,13,other,10,media,2
+political_organization,12,ohio,8,organization,4
+other,9,wisconsin,15,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+presidential_candidate,14,new york,7,democrat,0
+local_executive,8,rhode island,11,democrat,0
+other,9,ohio,8,official,3
+state_legislator_senate,18,oregon,9,democrat,0
+other,9,new york,7,republican,6
+other,9,florida,2,republican,6
+political_organization,12,new jersey,6,republican,6
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,third_Party,7
+other,9,ohio,8,organization,4
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_senate,4,oregon,9,democrat,0
+governor,5,texas,12,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+public_communicator,15,new jersey,6,media,2
+other,9,texas,12,third_Party,7
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+political_organization,12,georgia,3,organization,4
+other,9,virginia,13,democrat,0
+political_organization,12,new york,7,organization,4
+president,13,illinois,4,democrat,0
+other,9,other,10,third_Party,7
+president,13,other,10,democrat,0
+state_legislator_senate,18,ohio,8,democrat,0
+other,9,texas,12,independent_None,1
+federal_legislator_house,3,ohio,8,democrat,0
+other,9,virginia,13,democrat,0
+political_organization,12,other,10,organization,4
+presidential_candidate,14,florida,2,democrat,0
+other,9,other,10,democrat,0
+state_legislator_house,17,texas,12,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_house,3,virginia,13,republican,6
+other,9,other,10,other,5
+political_organization,12,other,10,republican,6
+president,13,illinois,4,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+governor,5,massachusetts,5,republican,6
+governor,5,florida,2,republican,6
+state_legislator_house,17,rhode island,11,media,2
+other,9,rhode island,11,independent_None,1
+political_organization,12,other,10,republican,6
+governor,5,other,10,republican,6
+governor,5,virginia,13,republican,6
+president,13,other,10,official,3
+other,9,ohio,8,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,other,10,organization,4
+president,13,new york,7,republican,6
+other,9,ohio,8,republican,6
+political_organization,12,wisconsin,15,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,other,10,republican,6
+party_leader,10,wisconsin,15,republican,6
+other,9,georgia,3,official,3
+federal_legislator_senate,4,arizona,0,republican,6
+public_communicator,15,georgia,3,republican,6
+other,9,florida,2,republican,6
+federal_legislator_house,3,texas,12,republican,6
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+other,9,other,10,media,2
+governor,5,massachusetts,5,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,florida,2,republican,6
+governor,5,new jersey,6,republican,6
+president,13,other,10,republican,6
+president,13,new york,7,republican,6
+other,9,washington dc,14,republican,6
+other,9,wisconsin,15,organization,4
+governor,5,virginia,13,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,new jersey,6,republican,6
+political_advisor,11,virginia,13,republican,6
+public_communicator,15,georgia,3,official,3
+other,9,other,10,republican,6
+federal_legislator_senate,4,other,10,republican,6
+federal_legislator_house,3,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,california,1,organization,4
+other,9,georgia,3,republican,6
+public_communicator,15,other,10,media,2
+other,9,illinois,4,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_house,3,texas,12,republican,6
+legal_professional,6,virginia,13,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+other,9,ohio,8,democrat,0
+other,9,other,10,democrat,0
+public_communicator,15,georgia,3,media,2
+federal_legislator_senate,4,other,10,democrat,0
+political_organization,12,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_house,3,virginia,13,republican,6
+governor,5,new jersey,6,republican,6
+other,9,oregon,9,third_Party,7
+federal_legislative_candidate,1,other,10,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,texas,12,democrat,0
+federal_legislator_house,3,ohio,8,republican,6
+federal_legislator_house,3,texas,12,republican,6
+governor,5,massachusetts,5,republican,6
+local_executive,8,wisconsin,15,republican,6
+federal_legislator_house,3,florida,2,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+political_organization,12,texas,12,republican,6
+federal_legislator_house,3,other,10,republican,6
+other,9,rhode island,11,media,2
+other,9,oregon,9,republican,6
+other,9,other,10,democrat,0
+political_organization,12,other,10,organization,4
+other,9,virginia,13,democrat,0
+other,9,massachusetts,5,other,5
+other,9,california,1,third_Party,7
+other,9,oregon,9,official,3
+political_organization,12,rhode island,11,official,3
+other,9,new jersey,6,media,2
+governor,5,new jersey,6,republican,6
+state_legislator_house,17,new jersey,6,democrat,0
+governor,5,texas,12,republican,6
+governor,5,texas,12,republican,6
+political_organization,12,florida,2,republican,6
+other,9,massachusetts,5,media,2
+other,9,ohio,8,third_Party,7
+governor,5,other,10,democrat,0
+political_organization,12,new jersey,6,republican,6
+federal_legislator_house,3,other,10,republican,6
+federal_legislator_house,3,other,10,republican,6
+other,9,oregon,9,democrat,0
+state_legislator_house,17,new jersey,6,democrat,0
+federal_legislator_house,3,florida,2,republican,6
+presidential_candidate,14,other,10,third_Party,7
+federal_legislator_house,3,wisconsin,15,republican,6
+other,9,other,10,republican,6
+local_executive,8,wisconsin,15,republican,6
+governor,5,texas,12,republican,6
+public_communicator,15,georgia,3,official,3
+political_organization,12,wisconsin,15,democrat,0
+party_leader,10,wisconsin,15,republican,6
+other,9,new jersey,6,media,2
+president,13,illinois,4,democrat,0
+governor,5,illinois,4,democrat,0
+governor,5,texas,12,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,other,10,organization,4
+presidential_candidate,14,new york,7,democrat,0
+president,13,new jersey,6,official,3
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,texas,12,republican,6
+political_organization,12,ohio,8,republican,6
+governor,5,florida,2,republican,6
+other,9,florida,2,republican,6
+other,9,other,10,republican,6
+other,9,texas,12,media,2
+governor,5,massachusetts,5,republican,6
+governor,5,texas,12,republican,6
+state_legislator_house,17,florida,2,republican,6
+public_communicator,15,other,10,republican,6
+governor,5,ohio,8,republican,6
+other,9,massachusetts,5,media,2
+business_professional,0,texas,12,organization,4
+other,9,florida,2,republican,6
+governor,5,ohio,8,republican,6
+other,9,other,10,republican,6
+political_organization,12,other,10,organization,4
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+public_communicator,15,georgia,3,official,3
+president,13,illinois,4,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+other,9,ohio,8,democrat,0
+political_organization,12,texas,12,organization,4
+political_organization,12,other,10,democrat,0
+federal_legislator_house,3,new jersey,6,republican,6
+state_executive,16,ohio,8,republican,6
+political_organization,12,florida,2,republican,6
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,wisconsin,15,republican,6
+other,9,other,10,republican,6
+president,13,illinois,4,democrat,0
+other,9,new jersey,6,republican,6
+federal_legislator_house,3,other,10,republican,6
+other,9,virginia,13,republican,6
+other,9,new jersey,6,third_Party,7
+president,13,illinois,4,democrat,0
+other,9,other,10,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+business_professional,0,florida,2,organization,4
+other,9,other,10,republican,6
+other,9,other,10,republican,6
+political_organization,12,other,10,republican,6
+other,9,wisconsin,15,democrat,0
+other,9,california,1,republican,6
+other,9,georgia,3,democrat,0
+political_organization,12,new jersey,6,democrat,0
+federal_legislator_house,3,new york,7,democrat,0
+political_organization,12,other,10,republican,6
+political_organization,12,other,10,republican,6
+other,9,other,10,republican,6
+political_organization,12,ohio,8,democrat,0
+other,9,other,10,democrat,0
+governor,5,other,10,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,texas,12,democrat,0
+other,9,texas,12,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+political_organization,12,ohio,8,organization,4
+other,9,florida,2,democrat,0
+public_communicator,15,rhode island,11,official,3
+other,9,oregon,9,media,2
+political_organization,12,texas,12,democrat,0
+other,9,texas,12,republican,6
+other,9,virginia,13,democrat,0
+political_organization,12,other,10,democrat,0
+political_organization,12,california,1,organization,4
+federal_legislator_house,3,oregon,9,democrat,0
+governor,5,texas,12,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,georgia,3,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,new jersey,6,media,2
+other,9,other,10,third_Party,7
+president,13,illinois,4,democrat,0
+political_organization,12,ohio,8,organization,4
+other,9,florida,2,republican,6
+other,9,other,10,republican,6
+public_communicator,15,other,10,media,2
+other,9,wisconsin,15,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,illinois,4,democrat,0
+political_organization,12,washington dc,14,democrat,0
+other,9,georgia,3,official,3
+political_organization,12,wisconsin,15,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,democrat,0
+governor,5,massachusetts,5,republican,6
+other,9,other,10,republican,6
+other,9,other,10,third_Party,7
+other,9,new jersey,6,third_Party,7
+other,9,new jersey,6,media,2
+other,9,ohio,8,third_Party,7
+other,9,florida,2,organization,4
+other,9,rhode island,11,democrat,0
+state_legislator_senate,18,florida,2,republican,6
+other,9,rhode island,11,media,2
+president,13,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,democrat,0
+other,9,new jersey,6,third_Party,7
+political_organization,12,other,10,democrat,0
+other,9,texas,12,republican,6
+political_organization,12,oregon,9,republican,6
+federal_legislator_senate,4,georgia,3,democrat,0
+political_organization,12,other,10,media,2
+president,13,illinois,4,democrat,0
+other,9,rhode island,11,media,2
+other,9,other,10,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,other,10,democrat,0
+other,9,texas,12,democrat,0
+federal_legislator_house,3,other,10,official,3
+other,9,florida,2,third_Party,7
+other,9,georgia,3,republican,6
+governor,5,florida,2,republican,6
+other,9,georgia,3,republican,6
+other,9,other,10,democrat,0
+federal_legislator_senate,4,new york,7,democrat,0
+political_organization,12,ohio,8,organization,4
+federal_legislative_leader,2,ohio,8,republican,6
+state_legislator_house,17,new jersey,6,democrat,0
+governor,5,texas,12,republican,6
+public_communicator,15,new jersey,6,third_Party,7
+business_professional,0,texas,12,democrat,0
+governor,5,texas,12,republican,6
+other,9,virginia,13,democrat,0
+other,9,other,10,republican,6
+political_organization,12,arizona,0,democrat,0
+other,9,other,10,media,2
+other,9,rhode island,11,democrat,0
+political_organization,12,florida,2,republican,6
+state_legislator_senate,18,georgia,3,democrat,0
+other,9,texas,12,third_Party,7
+other,9,texas,12,democrat,0
+federal_legislator_house,3,other,10,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,new jersey,6,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+federal_legislator_house,3,new jersey,6,democrat,0
+governor,5,florida,2,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,oregon,9,democrat,0
+other,9,texas,12,democrat,0
+president,13,illinois,4,democrat,0
+other,9,arizona,0,democrat,0
+other,9,texas,12,democrat,0
+other,9,other,10,republican,6
+governor,5,texas,12,republican,6
+political_organization,12,oregon,9,organization,4
+political_organization,12,rhode island,11,organization,4
+president,13,illinois,4,democrat,0
+governor,5,ohio,8,republican,6
+political_organization,12,other,10,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+local_executive,8,wisconsin,15,republican,6
+federal_legislative_leader,2,other,10,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,ohio,8,republican,6
+political_organization,12,other,10,republican,6
+other,9,oregon,9,organization,4
+federal_legislator_senate,4,other,10,democrat,0
+political_organization,12,new jersey,6,organization,4
+political_organization,12,rhode island,11,official,3
+federal_legislator_senate,4,georgia,3,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,georgia,3,democrat,0
+governor,5,texas,12,republican,6
+political_organization,12,oregon,9,democrat,0
+other,9,illinois,4,democrat,0
+other,9,new jersey,6,third_Party,7
+federal_legislator_house,3,florida,2,democrat,0
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,arizona,0,republican,6
+president,13,new york,7,republican,6
+other,9,virginia,13,independent_None,1
+federal_legislator_senate,4,texas,12,republican,6
+state_legislator_senate,18,rhode island,11,democrat,0
+other,9,washington dc,14,official,3
+other,9,wisconsin,15,democrat,0
+federal_legislator_house,3,illinois,4,republican,6
+other,9,ohio,8,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,wisconsin,15,republican,6
+governor,5,texas,12,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+political_organization,12,new jersey,6,democrat,0
+political_organization,12,wisconsin,15,democrat,0
+other,9,rhode island,11,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,other,10,democrat,0
+political_organization,12,rhode island,11,media,2
+state_legislator_senate,18,new jersey,6,democrat,0
+other,9,other,10,republican,6
+governor,5,illinois,4,democrat,0
+political_organization,12,texas,12,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+governor,5,texas,12,republican,6
+state_executive,16,virginia,13,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+political_organization,12,other,10,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+federal_legislative_leader,2,other,10,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,new jersey,6,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+state_executive,16,ohio,8,republican,6
+governor,5,massachusetts,5,republican,6
+state_legislator_senate,18,florida,2,democrat,0
+other,9,texas,12,republican,6
+other,9,new jersey,6,third_Party,7
+federal_legislative_leader,2,other,10,democrat,0
+state_legislator_senate,18,new jersey,6,democrat,0
+other,9,texas,12,democrat,0
+political_organization,12,texas,12,organization,4
+other,9,ohio,8,republican,6
+legal_professional,6,new york,7,republican,6
+political_organization,12,georgia,3,organization,4
+other,9,other,10,other,5
+president,13,new york,7,republican,6
+political_organization,12,wisconsin,15,organization,4
+local_executive,8,wisconsin,15,republican,6
+state_legislator_senate,18,new jersey,6,democrat,0
+president,13,new york,7,republican,6
+other,9,other,10,republican,6
+other,9,new york,7,democrat,0
+public_communicator,15,georgia,3,republican,6
+other,9,other,10,official,3
+other,9,ohio,8,democrat,0
+other,9,florida,2,republican,6
+other,9,new jersey,6,official,3
+political_organization,12,new jersey,6,media,2
+federal_legislator_senate,4,other,10,independent_None,1
+federal_legislator_senate,4,other,10,republican,6
+state_legislator_senate,18,georgia,3,democrat,0
+other,9,texas,12,democrat,0
+other,9,illinois,4,democrat,0
+local_education_official,7,wisconsin,15,democrat,0
+public_communicator,15,florida,2,official,3
+political_organization,12,new jersey,6,republican,6
+governor,5,new jersey,6,republican,6
+political_organization,12,oregon,9,organization,4
+governor,5,texas,12,republican,6
+political_organization,12,texas,12,republican,6
+political_organization,12,other,10,democrat,0
+public_communicator,15,other,10,third_Party,7
+legal_professional,6,georgia,3,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_house,3,california,1,democrat,0
+other,9,other,10,democrat,0
+other,9,ohio,8,democrat,0
+president,13,illinois,4,democrat,0
+other,9,oregon,9,official,3
+federal_legislator_house,3,florida,2,democrat,0
+political_organization,12,texas,12,republican,6
+state_legislator_senate,18,virginia,13,republican,6
+governor,5,oregon,9,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,texas,12,organization,4
+federal_legislator_house,3,other,10,democrat,0
+political_organization,12,florida,2,democrat,0
+other,9,other,10,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,new jersey,6,organization,4
+state_legislator_house,17,new jersey,6,democrat,0
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+state_executive,16,massachusetts,5,democrat,0
+state_executive,16,other,10,democrat,0
+other,9,new jersey,6,democrat,0
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+president,13,new york,7,republican,6
+political_organization,12,florida,2,republican,6
+governor,5,wisconsin,15,organization,4
+other,9,other,10,republican,6
+other,9,florida,2,democrat,0
+state_legislator_house,17,oregon,9,republican,6
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+other,9,georgia,3,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_house,3,florida,2,republican,6
+governor,5,other,10,media,2
+other,9,florida,2,republican,6
+political_organization,12,other,10,republican,6
+federal_legislator_house,3,virginia,13,democrat,0
+president,13,illinois,4,democrat,0
+other,9,california,1,republican,6
+other,9,california,1,democrat,0
+governor,5,florida,2,republican,6
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+state_legislator_senate,18,rhode island,11,republican,6
+state_legislator_senate,18,georgia,3,official,3
+federal_legislator_house,3,oregon,9,democrat,0
+political_organization,12,washington dc,14,organization,4
+other,9,florida,2,official,3
+president,13,illinois,4,democrat,0
+governor,5,florida,2,republican,6
+political_organization,12,texas,12,democrat,0
+political_organization,12,other,10,republican,6
+political_organization,12,wisconsin,15,organization,4
+governor,5,georgia,3,official,3
+other,9,oregon,9,official,3
+legal_professional,6,wisconsin,15,democrat,0
+political_organization,12,florida,2,republican,6
+state_legislator_house,17,georgia,3,republican,6
+president,13,other,10,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+federal_legislator_house,3,texas,12,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,florida,2,democrat,0
+legal_professional,6,rhode island,11,republican,6
+other,9,other,10,republican,6
+president,13,new york,7,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,virginia,13,organization,4
+other,9,texas,12,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,new jersey,6,organization,4
+other,9,new jersey,6,third_Party,7
+political_organization,12,washington dc,14,republican,6
+other,9,georgia,3,official,3
+other,9,georgia,3,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,washington dc,14,democrat,0
+federal_legislator_house,3,ohio,8,republican,6
+other,9,oregon,9,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,georgia,3,republican,6
+business_professional,0,other,10,organization,4
+federal_legislator_house,3,florida,2,republican,6
+other,9,georgia,3,republican,6
+other,9,rhode island,11,media,2
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,republican,6
+other,9,new jersey,6,media,2
+federal_legislative_leader,2,virginia,13,republican,6
+president,13,new york,7,republican,6
+other,9,florida,2,third_Party,7
+other,9,florida,2,democrat,0
+political_organization,12,other,10,republican,6
+governor,5,florida,2,republican,6
+other,9,georgia,3,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislator_house,3,other,10,republican,6
+public_communicator,15,ohio,8,media,2
+other,9,florida,2,democrat,0
+other,9,new jersey,6,official,3
+president,13,new york,7,republican,6
+other,9,other,10,media,2
+other,9,oregon,9,third_Party,7
+political_organization,12,georgia,3,republican,6
+federal_legislator_house,3,texas,12,republican,6
+local_executive,8,other,10,republican,6
+other,9,other,10,third_Party,7
+legal_professional,6,new york,7,republican,6
+other,9,rhode island,11,democrat,0
+public_communicator,15,florida,2,republican,6
+state_executive,16,texas,12,republican,6
+political_organization,12,wisconsin,15,organization,4
+political_organization,12,other,10,republican,6
+federal_legislator_house,3,texas,12,republican,6
+other,9,other,10,third_Party,7
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,other,10,republican,6
+political_organization,12,ohio,8,organization,4
+governor,5,massachusetts,5,republican,6
+state_legislator_senate,18,virginia,13,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+governor,5,texas,12,republican,6
+political_organization,12,florida,2,republican,6
+federal_legislator_house,3,arizona,0,republican,6
+other,9,new jersey,6,media,2
+local_executive,8,wisconsin,15,republican,6
+other,9,ohio,8,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,rhode island,11,republican,6
+public_communicator,15,other,10,republican,6
+state_legislator_senate,18,oregon,9,democrat,0
+other,9,other,10,media,2
+other,9,california,1,democrat,0
+president,13,new york,7,republican,6
+president,13,other,10,democrat,0
+other,9,ohio,8,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+other,9,washington dc,14,official,3
+other,9,other,10,official,3
+political_organization,12,washington dc,14,republican,6
+federal_legislative_leader,2,california,1,democrat,0
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,new jersey,6,organization,4
+president,13,illinois,4,democrat,0
+other,9,other,10,democrat,0
+other,9,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+other,9,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,rhode island,11,media,2
+political_organization,12,other,10,organization,4
+other,9,ohio,8,democrat,0
+other,9,virginia,13,republican,6
+federal_legislator_house,3,other,10,democrat,0
+state_executive,16,ohio,8,republican,6
+public_communicator,15,other,10,media,2
+governor,5,new jersey,6,republican,6
+political_organization,12,wisconsin,15,organization,4
+federal_legislative_candidate,1,other,10,official,3
+state_legislator_house,17,rhode island,11,republican,6
+legal_professional,6,other,10,republican,6
+political_organization,12,california,1,republican,6
+political_organization,12,other,10,democrat,0
+legal_professional,6,other,10,third_Party,7
+other,9,rhode island,11,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,new jersey,6,third_Party,7
+federal_legislator_senate,4,other,10,democrat,0
+other,9,rhode island,11,democrat,0
+state_executive,16,other,10,republican,6
+legal_professional,6,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+party_leader,10,rhode island,11,official,3
+other,9,ohio,8,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_senate,4,georgia,3,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_house,3,new york,7,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,georgia,3,third_Party,7
+president,13,new york,7,republican,6
+governor,5,wisconsin,15,democrat,0
+other,9,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+other,9,florida,2,republican,6
+other,9,oregon,9,republican,6
+other,9,new jersey,6,media,2
+other,9,rhode island,11,official,3
+political_organization,12,texas,12,organization,4
+state_executive,16,texas,12,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+other,9,ohio,8,republican,6
+other,9,california,1,republican,6
+other,9,florida,2,republican,6
+governor,5,massachusetts,5,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,other,10,democrat,0
+other,9,texas,12,official,3
+governor,5,new jersey,6,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,ohio,8,democrat,0
+other,9,oregon,9,democrat,0
+president,13,illinois,4,democrat,0
+other,9,texas,12,media,2
+political_organization,12,wisconsin,15,republican,6
+other,9,other,10,media,2
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+political_organization,12,other,10,democrat,0
+other,9,washington dc,14,republican,6
+political_organization,12,other,10,organization,4
+president,13,new york,7,republican,6
+state_legislator_senate,18,florida,2,republican,6
+other,9,other,10,third_Party,7
+other,9,rhode island,11,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,arizona,0,organization,4
+presidential_candidate,14,new york,7,democrat,0
+governor,5,texas,12,republican,6
+other,9,wisconsin,15,democrat,0
+other,9,georgia,3,organization,4
+political_organization,12,other,10,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+local_executive,8,wisconsin,15,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,other,10,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,georgia,3,democrat,0
+president,13,new york,7,republican,6
+federal_legislator_house,3,texas,12,republican,6
+other,9,california,1,republican,6
+political_organization,12,other,10,republican,6
+political_organization,12,virginia,13,republican,6
+federal_legislator_house,3,new jersey,6,republican,6
+president,13,new york,7,republican,6
+political_organization,12,rhode island,11,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,wisconsin,15,republican,6
+federal_legislator_house,3,other,10,republican,6
+other,9,oregon,9,third_Party,7
+president,13,illinois,4,democrat,0
+political_organization,12,wisconsin,15,democrat,0
+other,9,other,10,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+other,9,other,10,republican,6
+political_organization,12,new jersey,6,republican,6
+president,13,ohio,8,official,3
+legal_professional,6,texas,12,democrat,0
+other,9,florida,2,republican,6
+political_organization,12,other,10,organization,4
+other,9,illinois,4,republican,6
+other,9,florida,2,republican,6
+other,9,texas,12,republican,6
+other,9,texas,12,republican,6
+legal_professional,6,new york,7,republican,6
+presidential_candidate,14,new york,7,democrat,0
+president,13,new york,7,republican,6
+state_legislator_house,17,georgia,3,democrat,0
+political_organization,12,wisconsin,15,organization,4
+president,13,illinois,4,democrat,0
+other,9,other,10,democrat,0
+other,9,georgia,3,republican,6
+presidential_candidate,14,new york,7,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_house,3,ohio,8,democrat,0
+president,13,new york,7,republican,6
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,texas,12,republican,6
+public_communicator,15,new jersey,6,media,2
+other,9,wisconsin,15,official,3
+president,13,new york,7,republican,6
+other,9,texas,12,republican,6
+other,9,ohio,8,republican,6
+other,9,wisconsin,15,official,3
+business_professional,0,texas,12,republican,6
+governor,5,texas,12,republican,6
+president,13,illinois,4,democrat,0
+other,9,wisconsin,15,third_Party,7
+state_legislator_senate,18,ohio,8,democrat,0
+other,9,washington dc,14,republican,6
+other,9,other,10,democrat,0
+other,9,other,10,republican,6
+other,9,texas,12,official,3
+other,9,wisconsin,15,media,2
+president,13,new york,7,republican,6
+political_organization,12,wisconsin,15,organization,4
+other,9,rhode island,11,official,3
+other,9,rhode island,11,media,2
+federal_legislator_house,3,rhode island,11,democrat,0
+political_organization,12,florida,2,democrat,0
+political_organization,12,wisconsin,15,organization,4
+governor,5,florida,2,republican,6
+public_communicator,15,new jersey,6,media,2
+state_executive,16,florida,2,republican,6
+president,13,other,10,democrat,0
+party_leader,10,wisconsin,15,republican,6
+other,9,texas,12,republican,6
+other,9,ohio,8,republican,6
+presidential_candidate,14,new york,7,democrat,0
+local_executive,8,wisconsin,15,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,other,10,third_Party,7
+other,9,florida,2,republican,6
+other,9,california,1,republican,6
+political_organization,12,arizona,0,organization,4
+presidential_candidate,14,new york,7,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,organization,4
+political_organization,12,new jersey,6,organization,4
+state_legislator_house,17,ohio,8,democrat,0
+federal_legislator_senate,4,rhode island,11,democrat,0
+political_organization,12,virginia,13,democrat,0
+governor,5,other,10,democrat,0
+public_communicator,15,georgia,3,republican,6
+president,13,new york,7,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,other,10,republican,6
+public_communicator,15,texas,12,media,2
+governor,5,new jersey,6,republican,6
+political_organization,12,new jersey,6,organization,4
+other,9,rhode island,11,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,georgia,3,republican,6
+other,9,other,10,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+other,9,texas,12,official,3
+other,9,other,10,democrat,0
+governor,5,texas,12,republican,6
+president,13,new york,7,republican,6
+political_organization,12,wisconsin,15,republican,6
+political_organization,12,washington dc,14,republican,6
+other,9,other,10,organization,4
+political_organization,12,other,10,organization,4
+other,9,other,10,third_Party,7
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislative_leader,2,other,10,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,new jersey,6,democrat,0
+legal_professional,6,texas,12,democrat,0
+other,9,other,10,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+federal_legislator_house,3,new york,7,democrat,0
+governor,5,massachusetts,5,republican,6
+president,13,new york,7,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,other,10,republican,6
+political_organization,12,washington dc,14,republican,6
+president,13,illinois,4,democrat,0
+political_advisor,11,virginia,13,republican,6
+political_organization,12,new jersey,6,organization,4
+political_organization,12,other,10,democrat,0
+governor,5,new jersey,6,republican,6
+public_communicator,15,new york,7,media,2
+other,9,virginia,13,democrat,0
+public_communicator,15,california,1,independent_None,1
+local_executive,8,wisconsin,15,republican,6
+public_communicator,15,other,10,official,3
+other,9,wisconsin,15,republican,6
+other,9,other,10,republican,6
+governor,5,texas,12,republican,6
+political_organization,12,ohio,8,republican,6
+other,9,rhode island,11,official,3
+political_organization,12,washington dc,14,organization,4
+other,9,georgia,3,republican,6
+president,13,new jersey,6,media,2
+other,9,rhode island,11,republican,6
+state_legislator_senate,18,texas,12,democrat,0
+other,9,washington dc,14,organization,4
+governor,5,florida,2,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+public_communicator,15,other,10,media,2
+political_organization,12,arizona,0,organization,4
+political_organization,12,new jersey,6,organization,4
+other,9,other,10,democrat,0
+other,9,new york,7,republican,6
+president,13,illinois,4,democrat,0
+president,13,other,10,democrat,0
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,rhode island,11,official,3
+governor,5,virginia,13,democrat,0
+federal_legislator_house,3,virginia,13,republican,6
+president,13,new jersey,6,official,3
+other,9,florida,2,media,2
+political_organization,12,other,10,democrat,0
+federal_legislator_senate,4,georgia,3,republican,6
+state_executive,16,texas,12,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+political_organization,12,new jersey,6,organization,4
+president,13,illinois,4,democrat,0
+party_leader,10,new jersey,6,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,wisconsin,15,democrat,0
+political_organization,12,wisconsin,15,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,rhode island,11,democrat,0
+governor,5,new jersey,6,republican,6
+governor,5,massachusetts,5,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,georgia,3,democrat,0
+political_organization,12,other,10,organization,4
+other,9,florida,2,democrat,0
+other,9,other,10,republican,6
+political_organization,12,other,10,republican,6
+political_organization,12,florida,2,organization,4
+political_organization,12,ohio,8,republican,6
+presidential_candidate,14,new york,7,democrat,0
+governor,5,massachusetts,5,republican,6
+governor,5,other,10,republican,6
+political_organization,12,new jersey,6,republican,6
+other,9,wisconsin,15,organization,4
+presidential_candidate,14,new york,7,democrat,0
+other,9,georgia,3,official,3
+federal_legislator_house,3,other,10,republican,6
+other,9,florida,2,third_Party,7
+federal_legislator_senate,4,california,1,democrat,0
+governor,5,other,10,republican,6
+presidential_candidate,14,new york,7,democrat,0
+state_legislator_senate,18,texas,12,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,other,10,republican,6
+local_executive,8,wisconsin,15,republican,6
+federal_legislative_leader,2,california,1,democrat,0
+governor,5,texas,12,republican,6
+other,9,new jersey,6,democrat,0
+president,13,illinois,4,democrat,0
+local_education_official,7,oregon,9,organization,4
+other,9,texas,12,democrat,0
+public_communicator,15,other,10,republican,6
+other,9,california,1,organization,4
+governor,5,texas,12,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_house,3,virginia,13,democrat,0
+political_organization,12,rhode island,11,democrat,0
+other,9,other,10,democrat,0
+political_organization,12,georgia,3,democrat,0
+governor,5,massachusetts,5,republican,6
+public_communicator,15,other,10,official,3
+governor,5,other,10,republican,6
+political_organization,12,wisconsin,15,democrat,0
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,other,10,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+president,13,new york,7,republican,6
+governor,5,other,10,democrat,0
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,republican,6
+state_legislator_house,17,ohio,8,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,oregon,9,democrat,0
+other,9,other,10,third_Party,7
+governor,5,ohio,8,republican,6
+state_legislator_house,17,florida,2,republican,6
+local_executive,8,wisconsin,15,republican,6
+political_organization,12,new jersey,6,media,2
+federal_legislator_senate,4,other,10,democrat,0
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,other,10,republican,6
+other,9,florida,2,democrat,0
+state_legislator_house,17,florida,2,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+federal_legislator_house,3,new jersey,6,democrat,0
+other,9,oregon,9,republican,6
+federal_legislator_senate,4,rhode island,11,democrat,0
+other,9,texas,12,democrat,0
+governor,5,florida,2,republican,6
+other,9,florida,2,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+federal_legislator_house,3,other,10,republican,6
+other,9,rhode island,11,official,3
+other,9,rhode island,11,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,texas,12,democrat,0
+federal_legislator_house,3,other,10,republican,6
+other,9,rhode island,11,democrat,0
+other,9,other,10,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,texas,12,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,florida,2,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+state_executive,16,california,1,democrat,0
+party_leader,10,new jersey,6,republican,6
+state_legislator_house,17,arizona,0,democrat,0
+other,9,other,10,republican,6
+governor,5,texas,12,republican,6
+political_organization,12,texas,12,democrat,0
+governor,5,new jersey,6,republican,6
+federal_legislative_leader,2,other,10,republican,6
+political_organization,12,oregon,9,media,2
+party_leader,10,other,10,republican,6
+political_organization,12,georgia,3,republican,6
+governor,5,texas,12,republican,6
+other,9,oregon,9,democrat,0
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,media,2
+federal_legislator_senate,4,florida,2,republican,6
+state_legislator_senate,18,texas,12,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,other,10,organization,4
+president,13,new york,7,republican,6
+other,9,georgia,3,official,3
+political_organization,12,texas,12,organization,4
+president,13,illinois,4,democrat,0
+president,13,ohio,8,media,2
+public_communicator,15,texas,12,official,3
+state_legislator_house,17,florida,2,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+state_legislator_senate,18,new jersey,6,republican,6
+legal_professional,6,new york,7,republican,6
+other,9,wisconsin,15,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,texas,12,democrat,0
+political_organization,12,other,10,republican,6
+public_communicator,15,new jersey,6,official,3
+public_communicator,15,other,10,republican,6
+local_executive,8,wisconsin,15,republican,6
+president,13,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,georgia,3,republican,6
+political_organization,12,georgia,3,democrat,0
+federal_legislator_senate,4,california,1,democrat,0
+federal_legislator_senate,4,california,1,democrat,0
+public_communicator,15,georgia,3,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislator_senate,4,new jersey,6,democrat,0
+federal_legislator_house,3,illinois,4,democrat,0
+political_organization,12,wisconsin,15,organization,4
+other,9,new jersey,6,third_Party,7
+other,9,texas,12,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+governor,5,texas,12,republican,6
+other,9,florida,2,official,3
+political_organization,12,georgia,3,organization,4
+federal_legislator_house,3,other,10,republican,6
+president,13,illinois,4,democrat,0
+local_executive,8,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+federal_legislative_leader,2,other,10,democrat,0
+governor,5,other,10,organization,4
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,republican,6
+state_legislator_house,17,oregon,9,democrat,0
+other,9,florida,2,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+other,9,georgia,3,media,2
+governor,5,massachusetts,5,republican,6
+president,13,new york,7,republican,6
+political_organization,12,washington dc,14,organization,4
+governor,5,texas,12,republican,6
+public_communicator,15,other,10,republican,6
+federal_legislative_candidate,1,other,10,third_Party,7
+other,9,other,10,republican,6
+other,9,oregon,9,democrat,0
+federal_legislator_senate,4,new jersey,6,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+federal_legislator_house,3,other,10,republican,6
+public_communicator,15,new york,7,media,2
+federal_legislator_senate,4,florida,2,republican,6
+other,9,new jersey,6,official,3
+other,9,other,10,democrat,0
+other,9,texas,12,democrat,0
+other,9,other,10,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,republican,6
+federal_legislator_senate,4,ohio,8,democrat,0
+public_communicator,15,texas,12,democrat,0
+political_organization,12,wisconsin,15,republican,6
+governor,5,texas,12,republican,6
+governor,5,florida,2,official,3
+other,9,other,10,republican,6
+political_organization,12,other,10,democrat,0
+governor,5,massachusetts,5,republican,6
+other,9,texas,12,republican,6
+governor,5,texas,12,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,new jersey,6,republican,6
+political_organization,12,other,10,organization,4
+federal_legislator_house,3,wisconsin,15,republican,6
+legal_professional,6,new york,7,republican,6
+governor,5,virginia,13,republican,6
+governor,5,wisconsin,15,third_Party,7
+other,9,oregon,9,republican,6
+political_organization,12,new jersey,6,democrat,0
+state_executive,16,texas,12,republican,6
+political_organization,12,arizona,0,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,wisconsin,15,organization,4
+political_organization,12,florida,2,republican,6
+political_organization,12,other,10,organization,4
+president,13,new york,7,republican,6
+president,13,illinois,4,democrat,0
+public_communicator,15,georgia,3,republican,6
+governor,5,texas,12,republican,6
+federal_legislator_house,3,texas,12,republican,6
+other,9,other,10,republican,6
+public_communicator,15,georgia,3,official,3
+political_organization,12,washington dc,14,republican,6
+federal_legislator_senate,4,georgia,3,republican,6
+political_organization,12,other,10,republican,6
+public_communicator,15,other,10,media,2
+political_organization,12,arizona,0,republican,6
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+other,9,ohio,8,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,new jersey,6,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,virginia,13,republican,6
+other,9,new jersey,6,republican,6
+governor,5,texas,12,republican,6
+other,9,other,10,republican,6
+governor,5,massachusetts,5,democrat,0
+governor,5,massachusetts,5,republican,6
+president,13,new york,7,republican,6
+political_organization,12,other,10,organization,4
+other,9,washington dc,14,democrat,0
+federal_legislator_senate,4,florida,2,republican,6
+state_executive,16,washington dc,14,democrat,0
+governor,5,texas,12,democrat,0
+federal_legislator_senate,4,georgia,3,republican,6
+other,9,new jersey,6,third_Party,7
+other,9,other,10,republican,6
+other,9,wisconsin,15,republican,6
+president,13,ohio,8,republican,6
+political_organization,12,washington dc,14,media,2
+other,9,florida,2,official,3
+public_communicator,15,other,10,media,2
+president,13,illinois,4,democrat,0
+party_leader,10,ohio,8,republican,6
+political_organization,12,other,10,media,2
+federal_legislative_candidate,1,florida,2,republican,6
+other,9,california,1,democrat,0
+political_organization,12,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,texas,12,organization,4
+governor,5,ohio,8,republican,6
+president,13,new york,7,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,other,10,organization,4
+presidential_candidate,14,new york,7,democrat,0
+legal_professional,6,virginia,13,republican,6
+other,9,other,10,republican,6
+governor,5,washington dc,14,republican,6
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+local_executive,8,wisconsin,15,republican,6
+public_communicator,15,georgia,3,republican,6
+other,9,texas,12,official,3
+federal_legislator_house,3,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,new jersey,6,republican,6
+other,9,wisconsin,15,third_Party,7
+president,13,illinois,4,democrat,0
+political_organization,12,texas,12,democrat,0
+other,9,rhode island,11,official,3
+governor,5,texas,12,republican,6
+federal_legislator_house,3,florida,2,republican,6
+federal_legislative_leader,2,california,1,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+other,9,virginia,13,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+governor,5,other,10,democrat,0
+other,9,rhode island,11,organization,4
+federal_legislator_house,3,florida,2,democrat,0
+governor,5,texas,12,republican,6
+presidential_candidate,14,other,10,third_Party,7
+federal_legislator_house,3,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+state_executive,16,massachusetts,5,democrat,0
+federal_legislator_senate,4,wisconsin,15,republican,6
+other,9,texas,12,republican,6
+political_organization,12,illinois,4,organization,4
+federal_legislative_candidate,1,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislative_leader,2,ohio,8,republican,6
+political_organization,12,georgia,3,third_Party,7
+federal_legislator_house,3,texas,12,republican,6
+political_organization,12,ohio,8,democrat,0
+public_communicator,15,texas,12,democrat,0
+other,9,virginia,13,media,2
+political_organization,12,wisconsin,15,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+political_organization,12,ohio,8,organization,4
+political_organization,12,texas,12,organization,4
+political_organization,12,florida,2,organization,4
+other,9,other,10,media,2
+federal_legislative_leader,2,virginia,13,republican,6
+other,9,texas,12,democrat,0
+public_communicator,15,florida,2,media,2
+other,9,texas,12,republican,6
+political_organization,12,wisconsin,15,organization,4
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+governor,5,massachusetts,5,republican,6
+federal_legislator_house,3,ohio,8,democrat,0
+other,9,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+other,9,georgia,3,republican,6
+other,9,new jersey,6,republican,6
+other,9,wisconsin,15,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+legal_professional,6,wisconsin,15,democrat,0
+political_organization,12,texas,12,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,organization,4
+political_organization,12,new jersey,6,organization,4
+political_organization,12,other,10,organization,4
+other,9,georgia,3,republican,6
+federal_legislator_senate,4,ohio,8,democrat,0
+federal_legislative_leader,2,virginia,13,republican,6
+political_organization,12,new jersey,6,republican,6
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,california,1,organization,4
+federal_legislator_senate,4,florida,2,republican,6
+local_executive,8,wisconsin,15,democrat,0
+federal_legislator_house,3,ohio,8,democrat,0
+president,13,illinois,4,democrat,0
+other,9,texas,12,third_Party,7
+federal_legislator_house,3,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,other,10,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,new jersey,6,media,2
+political_organization,12,other,10,democrat,0
+political_organization,12,oregon,9,organization,4
+federal_legislator_senate,4,new jersey,6,democrat,0
+political_organization,12,florida,2,republican,6
+public_communicator,15,other,10,media,2
+other,9,other,10,media,2
+federal_legislator_senate,4,california,1,democrat,0
+other,9,florida,2,republican,6
+public_communicator,15,other,10,democrat,0
+state_executive,16,massachusetts,5,democrat,0
+local_executive,8,wisconsin,15,republican,6
+other,9,georgia,3,official,3
+federal_legislator_house,3,georgia,3,republican,6
+federal_legislator_senate,4,other,10,republican,6
+federal_legislative_candidate,1,other,10,republican,6
+other,9,florida,2,republican,6
+president,13,other,10,democrat,0
+legal_professional,6,new york,7,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+governor,5,florida,2,republican,6
+other,9,other,10,republican,6
+political_organization,12,florida,2,official,3
+president,13,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+public_communicator,15,georgia,3,republican,6
+president,13,new york,7,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+state_legislator_house,17,rhode island,11,democrat,0
+other,9,florida,2,democrat,0
+president,13,new york,7,republican,6
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,wisconsin,15,republican,6
+other,9,other,10,democrat,0
+other,9,ohio,8,democrat,0
+governor,5,ohio,8,republican,6
+legal_professional,6,texas,12,democrat,0
+political_organization,12,georgia,3,democrat,0
+governor,5,wisconsin,15,republican,6
+governor,5,texas,12,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+public_communicator,15,florida,2,media,2
+federal_legislator_senate,4,arizona,0,republican,6
+local_executive,8,wisconsin,15,republican,6
+governor,5,illinois,4,republican,6
+other,9,other,10,media,2
+other,9,ohio,8,republican,6
+political_organization,12,new jersey,6,organization,4
+federal_legislator_house,3,other,10,republican,6
+other,9,other,10,third_Party,7
+public_communicator,15,new jersey,6,republican,6
+federal_legislator_house,3,other,10,republican,6
+political_organization,12,texas,12,republican,6
+political_organization,12,texas,12,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,other,10,democrat,0
+governor,5,texas,12,republican,6
+governor,5,new jersey,6,republican,6
+governor,5,virginia,13,democrat,0
+other,9,wisconsin,15,official,3
+president,13,new york,7,republican,6
+political_organization,12,virginia,13,democrat,0
+state_legislator_senate,18,virginia,13,democrat,0
+political_advisor,11,oregon,9,republican,6
+other,9,new jersey,6,third_Party,7
+other,9,illinois,4,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+other,9,florida,2,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+other,9,georgia,3,democrat,0
+political_organization,12,new jersey,6,republican,6
+federal_legislator_senate,4,oregon,9,democrat,0
+federal_legislator_house,3,california,1,democrat,0
+other,9,washington dc,14,democrat,0
+presidential_candidate,14,new york,7,republican,6
+governor,5,texas,12,republican,6
+federal_legislative_candidate,1,georgia,3,republican,6
+president,13,ohio,8,official,3
+political_organization,12,florida,2,democrat,0
+federal_legislative_leader,2,other,10,republican,6
+political_organization,12,georgia,3,democrat,0
+other,9,georgia,3,democrat,0
+other,9,washington dc,14,republican,6
+other,9,texas,12,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+legal_professional,6,rhode island,11,democrat,0
+political_organization,12,new jersey,6,republican,6
+political_organization,12,other,10,republican,6
+political_organization,12,other,10,organization,4
+governor,5,massachusetts,5,republican,6
+other,9,florida,2,republican,6
+governor,5,other,10,republican,6
+governor,5,massachusetts,5,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,oregon,9,official,3
+political_organization,12,other,10,democrat,0
+other,9,florida,2,democrat,0
+other,9,texas,12,democrat,0
+party_leader,10,wisconsin,15,republican,6
+federal_legislative_candidate,1,florida,2,republican,6
+federal_legislator_house,3,wisconsin,15,democrat,0
+governor,5,virginia,13,republican,6
+party_leader,10,wisconsin,15,republican,6
+other,9,virginia,13,media,2
+state_legislator_senate,18,new jersey,6,democrat,0
+state_legislator_house,17,oregon,9,republican,6
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+other,9,ohio,8,democrat,0
+political_organization,12,texas,12,third_Party,7
+federal_legislator_senate,4,florida,2,republican,6
+other,9,texas,12,official,3
+other,9,other,10,republican,6
+federal_legislator_house,3,other,10,republican,6
+governor,5,massachusetts,5,democrat,0
+federal_legislator_house,3,florida,2,democrat,0
+other,9,ohio,8,democrat,0
+other,9,wisconsin,15,democrat,0
+president,13,illinois,4,democrat,0
+public_communicator,15,other,10,republican,6
+political_organization,12,other,10,organization,4
+governor,5,texas,12,republican,6
+other,9,new york,7,official,3
+state_legislator_house,17,florida,2,republican,6
+presidential_candidate,14,other,10,third_Party,7
+federal_legislator_senate,4,illinois,4,democrat,0
+political_organization,12,other,10,media,2
+presidential_candidate,14,new york,7,democrat,0
+governor,5,massachusetts,5,republican,6
+political_organization,12,other,10,media,2
+other,9,oregon,9,third_Party,7
+federal_legislator_senate,4,california,1,democrat,0
+federal_legislator_house,3,georgia,3,democrat,0
+governor,5,texas,12,republican,6
+other,9,wisconsin,15,democrat,0
+public_communicator,15,new jersey,6,republican,6
+other,9,ohio,8,republican,6
+legal_professional,6,texas,12,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,virginia,13,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+president,13,illinois,4,democrat,0
+other,9,other,10,republican,6
+federal_legislator_senate,4,new jersey,6,democrat,0
+other,9,florida,2,third_Party,7
+federal_legislator_senate,4,florida,2,republican,6
+other,9,georgia,3,official,3
+presidential_candidate,14,new york,7,democrat,0
+other,9,rhode island,11,media,2
+political_organization,12,other,10,organization,4
+other,9,texas,12,republican,6
+political_organization,12,california,1,republican,6
+other,9,oregon,9,republican,6
+other,9,wisconsin,15,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,democrat,0
+state_legislator_senate,18,ohio,8,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+state_legislator_house,17,wisconsin,15,republican,6
+other,9,new jersey,6,republican,6
+other,9,virginia,13,republican,6
+public_communicator,15,other,10,media,2
+governor,5,florida,2,republican,6
+other,9,new jersey,6,third_Party,7
+other,9,illinois,4,republican,6
+state_legislator_senate,18,florida,2,republican,6
+governor,5,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+local_executive,8,wisconsin,15,republican,6
+other,9,florida,2,republican,6
+business_professional,0,texas,12,republican,6
+political_organization,12,texas,12,organization,4
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,republican,6
+political_organization,12,other,10,organization,4
+federal_legislative_leader,2,ohio,8,republican,6
+state_legislator_senate,18,other,10,republican,6
+president,13,illinois,4,democrat,0
+governor,5,other,10,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+political_organization,12,georgia,3,organization,4
+president,13,illinois,4,democrat,0
+governor,5,florida,2,republican,6
+other,9,florida,2,democrat,0
+public_communicator,15,new jersey,6,media,2
+federal_legislator_senate,4,other,10,republican,6
+political_organization,12,other,10,third_Party,7
+federal_legislator_house,3,ohio,8,democrat,0
+public_communicator,15,florida,2,third_Party,7
+political_organization,12,other,10,democrat,0
+governor,5,other,10,democrat,0
+state_legislator_house,17,texas,12,republican,6
+state_executive,16,texas,12,republican,6
+other,9,wisconsin,15,third_Party,7
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,wisconsin,15,media,2
+political_organization,12,other,10,organization,4
+federal_legislative_leader,2,california,1,democrat,0
+president,13,new york,7,republican,6
+governor,5,florida,2,republican,6
+governor,5,florida,2,republican,6
+state_legislator_house,17,texas,12,republican,6
+federal_legislator_senate,4,georgia,3,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+presidential_candidate,14,new york,7,democrat,0
+federal_legislator_senate,4,ohio,8,democrat,0
+political_organization,12,other,10,democrat,0
+political_organization,12,wisconsin,15,organization,4
+governor,5,texas,12,republican,6
+president,13,other,10,democrat,0
+other,9,florida,2,democrat,0
+governor,5,other,10,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+federal_legislator_house,3,other,10,republican,6
+federal_legislator_senate,4,ohio,8,republican,6
+political_organization,12,other,10,organization,4
+political_organization,12,other,10,organization,4
+political_organization,12,rhode island,11,organization,4
+governor,5,virginia,13,democrat,0
+other,9,california,1,democrat,0
+other,9,ohio,8,democrat,0
+political_organization,12,texas,12,organization,4
+other,9,other,10,democrat,0
+other,9,rhode island,11,republican,6
+political_organization,12,wisconsin,15,democrat,0
+governor,5,virginia,13,republican,6
+other,9,other,10,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,democrat,0
+political_organization,12,florida,2,organization,4
+federal_legislative_leader,2,virginia,13,republican,6
+legal_professional,6,texas,12,democrat,0
+political_organization,12,other,10,organization,4
+federal_legislator_senate,4,other,10,democrat,0
+local_executive,8,wisconsin,15,democrat,0
+other,9,rhode island,11,democrat,0
+other,9,florida,2,republican,6
+other,9,massachusetts,5,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,oregon,9,democrat,0
+governor,5,new jersey,6,republican,6
+legal_professional,6,new york,7,republican,6
+political_organization,12,georgia,3,republican,6
+other,9,other,10,republican,6
+other,9,texas,12,democrat,0
+federal_legislator_house,3,florida,2,republican,6
+political_organization,12,new jersey,6,organization,4
+president,13,illinois,4,democrat,0
+president,13,new york,7,republican,6
+president,13,ohio,8,official,3
+business_professional,0,other,10,democrat,0
+federal_legislator_senate,4,rhode island,11,democrat,0
+president,13,new jersey,6,republican,6
+public_communicator,15,arizona,0,media,2
+public_communicator,15,new jersey,6,official,3
+federal_legislator_house,3,virginia,13,republican,6
+president,13,other,10,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+public_communicator,15,other,10,media,2
+state_legislator_senate,18,new jersey,6,republican,6
+other,9,florida,2,democrat,0
+federal_legislator_senate,4,oregon,9,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+political_organization,12,texas,12,democrat,0
+political_organization,12,wisconsin,15,organization,4
+other,9,florida,2,republican,6
+other,9,texas,12,official,3
+federal_legislator_house,3,oregon,9,democrat,0
+other,9,other,10,third_Party,7
+public_communicator,15,other,10,media,2
+other,9,rhode island,11,third_Party,7
+other,9,new jersey,6,third_Party,7
+other,9,new jersey,6,third_Party,7
+other,9,florida,2,democrat,0
+other,9,florida,2,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+state_executive,16,ohio,8,republican,6
+governor,5,massachusetts,5,republican,6
+state_legislator_house,17,oregon,9,republican,6
+state_legislator_senate,18,georgia,3,democrat,0
+other,9,florida,2,democrat,0
+other,9,texas,12,republican,6
+other,9,oregon,9,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+political_organization,12,other,10,republican,6
+governor,5,other,10,republican,6
+political_organization,12,texas,12,democrat,0
+other,9,wisconsin,15,democrat,0
+other,9,florida,2,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+governor,5,new jersey,6,republican,6
+local_executive,8,wisconsin,15,democrat,0
+other,9,rhode island,11,media,2
+other,9,other,10,independent_None,1
+other,9,new jersey,6,media,2
+political_organization,12,rhode island,11,official,3
+political_organization,12,virginia,13,democrat,0
+political_organization,12,texas,12,organization,4
+political_organization,12,oregon,9,democrat,0
+political_organization,12,other,10,organization,4
+other,9,other,10,republican,6
+state_legislator_senate,18,georgia,3,democrat,0
+governor,5,new jersey,6,republican,6
+governor,5,massachusetts,5,republican,6
+president,13,illinois,4,democrat,0
+state_legislator_house,17,ohio,8,democrat,0
+governor,5,virginia,13,republican,6
+governor,5,new jersey,6,republican,6
+president,13,new york,7,republican,6
+federal_legislator_house,3,florida,2,democrat,0
+federal_legislative_leader,2,california,1,democrat,0
+president,13,illinois,4,democrat,0
+governor,5,other,10,democrat,0
+other,9,other,10,republican,6
+other,9,new jersey,6,media,2
+political_organization,12,texas,12,republican,6
+political_organization,12,oregon,9,official,3
+political_organization,12,new jersey,6,republican,6
+federal_legislator_house,3,florida,2,republican,6
+governor,5,other,10,democrat,0
+federal_legislator_house,3,ohio,8,republican,6
+state_legislator_senate,18,florida,2,republican,6
+federal_legislator_house,3,texas,12,republican,6
+president,13,new york,7,republican,6
+other,9,new york,7,independent_None,1
+legal_professional,6,georgia,3,democrat,0
+local_executive,8,wisconsin,15,republican,6
+other,9,ohio,8,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+federal_legislator_house,3,florida,2,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+other,9,georgia,3,democrat,0
+president,13,new york,7,republican,6
+other,9,florida,2,third_Party,7
+political_organization,12,ohio,8,republican,6
+state_legislator_senate,18,new jersey,6,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,texas,12,republican,6
+public_communicator,15,wisconsin,15,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+president,13,illinois,4,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+federal_legislative_leader,2,other,10,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,texas,12,organization,4
+other,9,new jersey,6,third_Party,7
+federal_legislator_house,3,florida,2,republican,6
+political_organization,12,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+political_organization,12,ohio,8,organization,4
+federal_legislative_leader,2,ohio,8,republican,6
+political_organization,12,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,democrat,0
+local_executive,8,wisconsin,15,republican,6
+local_executive,8,wisconsin,15,republican,6
+state_legislator_house,17,ohio,8,republican,6
+president,13,illinois,4,democrat,0
+political_organization,12,other,10,democrat,0
+other,9,other,10,media,2
+governor,5,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+federal_legislative_leader,2,california,1,democrat,0
+governor,5,massachusetts,5,republican,6
+governor,5,massachusetts,5,republican,6
+other,9,wisconsin,15,republican,6
+governor,5,massachusetts,5,republican,6
+political_organization,12,other,10,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+other,9,other,10,republican,6
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+political_organization,12,texas,12,democrat,0
+political_organization,12,other,10,organization,4
+other,9,other,10,republican,6
+other,9,other,10,democrat,0
+public_communicator,15,wisconsin,15,media,2
+political_organization,12,georgia,3,organization,4
+political_organization,12,texas,12,organization,4
+other,9,rhode island,11,independent_None,1
+other,9,georgia,3,third_Party,7
+federal_legislator_senate,4,florida,2,republican,6
+other,9,new york,7,republican,6
+federal_legislator_house,3,wisconsin,15,republican,6
+president,13,ohio,8,official,3
+other,9,texas,12,democrat,0
+other,9,other,10,third_Party,7
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,republican,6
+federal_legislator_senate,4,florida,2,republican,6
+political_organization,12,washington dc,14,democrat,0
+political_organization,12,florida,2,democrat,0
+governor,5,ohio,8,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,other,10,official,3
+federal_legislator_senate,4,arizona,0,republican,6
+federal_legislator_house,3,georgia,3,republican,6
+presidential_candidate,14,other,10,democrat,0
+other,9,texas,12,democrat,0
+other,9,other,10,republican,6
+other,9,other,10,third_Party,7
+other,9,texas,12,independent_None,1
+other,9,florida,2,democrat,0
+political_organization,12,texas,12,democrat,0
+other,9,wisconsin,15,democrat,0
+federal_legislator_senate,4,new jersey,6,democrat,0
+federal_legislator_house,3,georgia,3,republican,6
+state_executive,16,texas,12,republican,6
+governor,5,florida,2,republican,6
+federal_legislator_senate,4,texas,12,republican,6
+other,9,washington dc,14,democrat,0
+public_communicator,15,other,10,republican,6
+local_education_official,7,wisconsin,15,democrat,0
+federal_legislator_senate,4,virginia,13,democrat,0
+state_legislator_senate,18,virginia,13,democrat,0
+other,9,texas,12,republican,6
+other,9,ohio,8,republican,6
+other,9,georgia,3,republican,6
+other,9,other,10,democrat,0
+other,9,florida,2,republican,6
+president,13,illinois,4,democrat,0
+other,9,wisconsin,15,democrat,0
+other,9,florida,2,democrat,0
+political_organization,12,new jersey,6,organization,4
+president,13,illinois,4,democrat,0
+president,13,other,10,democrat,0
+president,13,illinois,4,democrat,0
+governor,5,other,10,democrat,0
+other,9,texas,12,democrat,0
+president,13,new jersey,6,official,3
+governor,5,new york,7,media,2
+other,9,other,10,republican,6
+governor,5,wisconsin,15,democrat,0
+other,9,florida,2,media,2
+governor,5,new jersey,6,republican,6
+other,9,florida,2,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,new jersey,6,democrat,0
+state_legislator_senate,18,oregon,9,republican,6
+president,13,wisconsin,15,republican,6
+governor,5,florida,2,republican,6
+governor,5,massachusetts,5,republican,6
+legal_professional,6,texas,12,official,3
+other,9,other,10,republican,6
+federal_legislator_senate,4,virginia,13,democrat,0
+political_organization,12,wisconsin,15,democrat,0
+other,9,florida,2,republican,6
+political_organization,12,other,10,organization,4
+governor,5,texas,12,republican,6
+political_organization,12,other,10,media,2
+other,9,texas,12,official,3
+governor,5,texas,12,republican,6
+other,9,oregon,9,republican,6
+other,9,georgia,3,independent_None,1
+federal_legislator_house,3,texas,12,republican,6
+political_organization,12,washington dc,14,organization,4
+other,9,other,10,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+other,9,georgia,3,democrat,0
+political_organization,12,new jersey,6,republican,6
+governor,5,florida,2,republican,6
+other,9,florida,2,republican,6
+other,9,florida,2,republican,6
+president,13,new york,7,republican,6
+political_organization,12,ohio,8,organization,4
+other,9,georgia,3,official,3
+federal_legislator_house,3,texas,12,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+other,9,other,10,third_Party,7
+state_legislator_senate,18,texas,12,democrat,0
+governor,5,massachusetts,5,republican,6
+president,13,illinois,4,democrat,0
+other,9,rhode island,11,democrat,0
+state_legislator_senate,18,texas,12,republican,6
+other,9,oregon,9,media,2
+president,13,illinois,4,democrat,0
+federal_legislator_house,3,wisconsin,15,republican,6
+other,9,rhode island,11,republican,6
+state_executive,16,massachusetts,5,democrat,0
+other,9,new jersey,6,republican,6
+other,9,wisconsin,15,democrat,0
+political_organization,12,other,10,third_Party,7
+political_organization,12,texas,12,republican,6
+federal_legislator_senate,4,other,10,democrat,0
+governor,5,texas,12,republican,6
+political_organization,12,other,10,organization,4
+legal_professional,6,texas,12,democrat,0
+federal_legislator_senate,4,other,10,democrat,0
+other,9,other,10,republican,6
+other,9,other,10,republican,6
+president,13,other,10,democrat,0
+governor,5,texas,12,republican,6
+other,9,texas,12,democrat,0
+public_communicator,15,georgia,3,republican,6
+president,13,illinois,4,democrat,0
+federal_legislative_candidate,1,other,10,republican,6
+public_communicator,15,other,10,media,2
+president,13,new york,7,democrat,0
+other,9,other,10,other,5
+other,9,new jersey,6,third_Party,7
+president,13,new york,7,republican,6
+other,9,other,10,democrat,0
+political_organization,12,wisconsin,15,organization,4
+political_organization,12,other,10,republican,6
+other,9,other,10,republican,6
+federal_legislator_house,3,california,1,republican,6
+federal_legislator_senate,4,rhode island,11,democrat,0
+other,9,florida,2,democrat,0
+other,9,california,1,official,3
+political_organization,12,oregon,9,official,3
+other,9,other,10,third_Party,7
+other,9,other,10,media,2
+federal_legislator_senate,4,ohio,8,republican,6
+other,9,rhode island,11,official,3
+governor,5,other,10,republican,6
+other,9,new jersey,6,third_Party,7
+public_communicator,15,arizona,0,media,2
+federal_legislative_leader,2,other,10,republican,6
+other,9,other,10,third_Party,7
+president,13,illinois,4,democrat,0
+legal_professional,6,new york,7,republican,6
+other,9,texas,12,republican,6
+other,9,other,10,third_Party,7
+president,13,illinois,4,democrat,0
+other,9,new jersey,6,organization,4
+other,9,other,10,republican,6
+federal_legislator_house,3,oregon,9,democrat,0
+public_communicator,15,other,10,republican,6
+other,9,texas,12,republican,6
+governor,5,texas,12,republican,6
+state_legislator_house,17,oregon,9,republican,6
+president,13,new york,7,republican,6
+other,9,texas,12,organization,4
+political_organization,12,new jersey,6,democrat,0
+federal_legislative_leader,2,ohio,8,republican,6
+political_organization,12,new jersey,6,democrat,0
+political_organization,12,other,10,democrat,0
+federal_legislator_house,3,virginia,13,republican,6
+president,13,illinois,4,democrat,0
+federal_legislative_candidate,1,new jersey,6,democrat,0
+other,9,florida,2,democrat,0
+federal_legislator_senate,4,other,10,republican,6
+other,9,rhode island,11,republican,6
+state_executive,16,other,10,democrat,0
+governor,5,florida,2,republican,6
+other,9,virginia,13,republican,6
+state_executive,16,ohio,8,republican,6
+governor,5,florida,2,republican,6
+president,13,illinois,4,democrat,0
+president,13,illinois,4,democrat,0
+presidential_candidate,14,new york,7,democrat,0
+governor,5,wisconsin,15,democrat,0
+president,13,illinois,4,democrat,0
+state_legislator_senate,18,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+political_organization,12,rhode island,11,organization,4
+other,9,rhode island,11,independent_None,1
+local_executive,8,wisconsin,15,republican,6
+presidential_candidate,14,new york,7,democrat,0
+other,9,washington dc,14,democrat,0
+federal_legislator_house,3,texas,12,republican,6
+other,9,florida,2,democrat,0
+federal_legislator_house,3,other,10,democrat,0
+other,9,other,10,third_Party,7
+legal_professional,6,florida,2,democrat,0
+president,13,new york,7,republican,6
+political_organization,12,new jersey,6,republican,6
+president,13,illinois,4,democrat,0
+federal_legislator_senate,4,arizona,0,republican,6
+state_legislator_house,17,rhode island,11,democrat,0
+other,9,florida,2,republican,6
+other,9,other,10,republican,6
+other,9,other,10,organization,4
+governor,5,new jersey,6,republican,6
+federal_legislator_senate,4,other,10,independent_None,1
+other,9,texas,12,democrat,0
+governor,5,florida,2,republican,6
+president,13,illinois,4,democrat,0
+other,9,other,10,republican,6
+president,13,ohio,8,official,3
+other,9,other,10,third_Party,7
+state_legislator_house,17,oregon,9,democrat,0
+political_organization,12,ohio,8,republican,6
+public_communicator,15,other,10,media,2
+local_executive,8,wisconsin,15,republican,6
+other,9,other,10,organization,4
+other,9,other,10,democrat,0
+federal_legislator_senate,4,new jersey,6,democrat,0
+legal_professional,6,rhode island,11,republican,6
+governor,5,new jersey,6,republican,6
+other,9,new jersey,6,media,2
+other,9,virginia,13,democrat,0
+federal_legislative_leader,2,other,10,republican,6
+president,13,new york,7,republican,6
+other,9,texas,12,republican,6
+federal_legislator_senate,4,other,10,republican,6
+public_communicator,15,new jersey,6,media,2
+governor,5,ohio,8,republican,6
+political_organization,12,other,10,democrat,0
+governor,5,ohio,8,republican,6
+political_organization,12,california,1,republican,6
+other,9,california,1,other,5
+legal_professional,6,georgia,3,democrat,0
+president,13,illinois,4,democrat,0
+state_legislator_house,17,florida,2,republican,6
+other,9,ohio,8,media,2
+other,9,other,10,third_Party,7

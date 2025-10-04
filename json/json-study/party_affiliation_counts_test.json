@@ -1,0 +1,21 @@
+{
+  "republican": 1716,
+  "democrat": 1238,
+  "none": 650,
+  "organization": 67,
+  "independent": 50,
+  "newsmaker": 23,
+  "libertarian": 17,
+  "activist": 15,
+  "journalist": 12,
+  "columnist": 12,
+  "state-official": 10,
+  "talk-show-host": 9,
+  "labor-leader": 8,
+  "business-leader": 3,
+  "tea-party-member": 2,
+  "education-official": 1,
+  "county-commissioner": 1,
+  "constitution-party": 1,
+  "government-body": 1
+}
